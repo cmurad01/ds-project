@@ -1,0 +1,24 @@
+1, Ben Davis, LB, 6-4, 235, Fr (Redshirt), Gordo AL, Gordo
+1, Robert Foster, WR, 6-2, 196, Sr (Redshirt), Monaca PA, Central Valley
+2, Jalen Hurts, QB, 6-2, 214, So, Channelview TX, Channelview
+3, Calvin Ridley, WR, 6-1, 190, Jr, Coconut Creek FL, Monarch
+3, Daniel Wright, DB, 6-1, 185, Fr, Fort Lauderdale FL, Boyd Anderson
+4, Jerry Jeudy, WR, 6-1, 184, Fr, Deerfield Beach FL, Deerfield Beach
+5, Shyheim Carter, DB, 6-0, 195, So, Kentwood LA, Kentwood
+5, Ronnie Clark, RB, 6-2, 215, Jr (Redshirt), Calera AL, Calera
+6, BJ Emmons, RB, 6-0, 219, So, Moganton SC, Freedom
+6, Hootie Jones, DB, 6-2, 215, Sr, Monroe LA, Neville
+6, Dylan Moses, LB, 6-3, 234, Fr, Baton Rouge LA, IMG Academy
+7, Tony Brown, DB, 6-0, 198, Sr, Beaumont TX, Ozen
+7, Trevon Diggs, WR, 6-2, 195, So, Gaithersburg MD, Avalon
+8, Josh Jacobs, RB, 5-10, 209, So, Tulsa OK, Mclain
+9, Da'Shawn Hand, DL, 6-4, 282, Sr, Woodbridge VA, Woodbridge
+9, Bo Scarbrough, RB, 6-2, 232, Jr, Northport AL, Tuscaloosa County
+10, Mac Jones, QB, 6-2, 185, Fr, Jacksonville FL, The Bolles
+12, Chadarius Townsend, RB, 6-0, 192, Fr, Tanner AL, Tanner
+13, Nigel Knott, DB, 5-11, 183, Fr (Redshirt), Madison MI, Germantown
+13, Tua Tagovailoa, QB, 6-1, 219, Fr, Ewa Beach HI, St Louis
+14, Tyrell Shavers, WR, 6-6, 209, Fr, Lewisville TX, Lewisville
+14, Deionte Thompson, DB, 6-2, 193, So (Redshirt), Orange TX, West Orange-Stark
+15, Ronnie Harrison, DB, 6-3, 214, Jr, Tallahassee FL, FSU University
+15, JK Scott, P, 6-6. 204, Sr, Denver CO, Mullen
