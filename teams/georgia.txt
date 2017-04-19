@@ -1,0 +1,110 @@
+58,	Pat Allen,	OL	RS SO	6-4	290	Reisterstown, Md./Franklin
+97,	John Atkins,	N	SR	6-4	308	Thomson, Ga./Thomson/Hargrave Military Academy
+18,	Deandre Baker,	CB	JR	5-11	180	Miami, Fla./Miami Northwestern
+65,	Kendall Baker,	OT	JR	6-6	287	Atlanta, Ga./Marist
+61,	Chris Barnes,	OL	SO	6-3	288	Leesburg, Ga./Lee County
+94,	Michael Barnett,	OL/DT	RS SO	6-4	304	Dorchester, S.C./Woodland
+48,	Austin Beauchamp,	ILB	JR	6-1	230	Commerce, Ga.//Reinhart
+17,	Davin Bellamy,	OLB	SR	6-5	240	Chamblee, Ga./Chamblee
+98,	Rodrigo Blankenship,	PK	RS SO	6-1	191	Marietta, Ga./Sprayberry
+83,	Jeb Blazevich,	TE	SR	6-5	242	Charlotte, N.C./Charlotte Christian
+11,	Keyon Brown,	OLB	RS JR	6-3	257	Wauchula, Fla./Hardee County
+26,	Patrick Burke,	WR	RS FR	6-3	197	Marietta, Ga./Pope
+70,	Aulden Bynum,	OT/TE	SR	6-5	295	Valdosta, Ga./Valwood School
+7,	Lorenzo Carter,	OLB	SR	6-6	242	Norcross, Ga./Norcross
+76,	Michail Carter,	DL	SO	6-3	295	Jackson, Ga./Jackson
+45,	Reggie Carter,	ILB	SR	6-1	230	Snellville, Ga./South Gwinnett
+82,	Michael Chigbu,	WR	JR	6-2	213	New Orleans, La./Holy Cross School
+27,	Nick Chubb,	TB	SR	5-10	228	Cedartown, Ga./Cedartown
+52,	Tyler Clark,	DL	SO	6-4	305	Americus, Ga./Americus-Sumter
+74,	Ben Cleveland,	OL	SO	6-6	340	Toccoa, Ga./Stephens County
+56,	John Courson,	SN	RS JR	5-11	193	Athens, Ga./North Oconee
+97,	Will Cowart,	P	RS JR	6-3	165	Warner Robins, Ga.//LaGrange College
+30,	Tae Crowder,	ILB	RS SO	6-3	228	Hamilton, Ga./Harris County
+91,	Michael D'Angola,	P	JR	6-2	196	Suwanee, Ga.//Georgia Perimeter
+35,	Aaron Davis,	CB	SR	6-1	189	Locust Grove, Ga./Luella
+85,	Jordan Davis,	TE	SR	6-4	240	Thomson, Ga./Thomson
+36,	Dante Dixon,	RB	SR	5-7	170	Dacula, Ga.//Kennesaw State
+33,	Ian Donald-McIntyre,	RB	RS FR	5-10	207	Fayetteville, Ga./Whitewater
+10,	Jacob Eason,	QB	SO	6-5	235	Lake Stevens, Wash./Lake Stevens
+19,	Willie Erdman,	WR	RS FR	5-10	191	Merritt Island, Fla./Melbourne Central
+57,	Alex Essex,	DT	JR	6-5	272	Richmond, Va./St. Christopher's
+68,	Sean Fogarty,	OL	JR	6-4	291	Savannah ,Ga./Benedictine Military/Savannah State
+49,	Turner Fortin,	FB	RS SO	6-1	231	Johns Creek, Ga./Northview
+69,	Trent Frix,	SN	SR	6-0	215	Calhoun, Ga./Calhoun/Air Force Academy
+11,	Jake Fromm,	QB	FR	6-2	225	Warner Robins, Ga./Houston County
+53,	Lamont Gaillard,	OG	RS JR	6-2	288	Fayetteville, N.C./Pine Forest
+8,	Deangelo Gibbs,	DB	FR	6-1	200	Oxford, Ga./Grayson
+5,	Terry Godwin,	WR	JR	5-11	185	Hogansville, Ga./Callaway
+71,	Daniel Gothard,	OL	RS FR	6-6	327	Dunwoody, Ga./Dunwoody
+55,	Jacob Gross,	ILB	JR	6-0	228	Molena, Ga./Upson-Lee/Reinhardt University
+93,	Carson Hall,	DL	SR	6-5	272	Dallas, Ga./East Paulding/Mars Hill
+63,	Sage Hardin,	OL	RS SO	6-6	291	Atlanta, Ga./Marist
+4,	Mecole Hardman,	ATH	SO	5-11	183	Bowman, Ga./Elbert County
+47,	Daniel Harper,	OLB	JR	6-1	215	Atlanta, Ga./Lakeside/Georgia State
+88,	Jackson Harris,	TE	JR	6-6	247	Columbia, Tenn./Columbia Central
+96,	DaQuan Hawkins-Muckle,	DT	JR	6-4	318	Atlanta, Ga./Westlake
+78,	D'Marcus Hayes,	OL	JR	6-5	315	Madison, Miss./Madison Central/Mississippi Gulf Coast CC
+35,	Brian Herrien, RB	SO	6-0	210	Douglasville, Ga./New Manchester
+59,	Matthew Herzwurm,	SN	SR	6-0	236	Augusta, Ga./Augusta Christian
+29,	Tim Hill,	DB	SR	5-11	172	Atlanta, Ga./Mountain View/Bethany College
+9,	Jeremiah Holloman,	WR	FR	6-2	195	Covington, Ga./Newton County
+13,	Elijah Holyfield,	RB	SO	5-11	215	College Park, Ga./Woodward Academy
+24,	Prather Hudson,	RB	RS FR	5-11	188	Columbus, Ga./Brookstone
+44,	Justin Hurston,	TE	RS FR	6-4	221	Stockbridge, Ga./Woodland
+46,	Michael Keene,	OLB	RS FR	6-2	223	Savannah ,Ga./Savannah Country Day
+86	Davis Kelly,	WR	RS FR	6-3	207	Alpharetta, Ga./Alpharetta
+66,	Solomon Kindley,	OL	RS FR	6-4	341	Jacksonville, Fla./Raines
+25,	Jaleel Laguins, OLB	SO	6-2	220	Watkinsville, Ga./Oconee County
+2,	Richard LeCounte III,	DB	FR	5-11	180	Riceboro, Ga./Liberty County
+13,	Jonathan Ledbetter,	DE	JR	6-4	277	Tucker, Ga./Tucker
+95,	Marshall Long,	P	SO	6-2	217	China Grove, N.C./South Rowan
+67,	Sam Madden,	OL	RS SO	6-6	334	Barnegat, N.J./Barnegat
+91,	Chauncey Manac,	OLB	RS FR	6-3	243	Fargo, Ga./Clinch County
+51,	David Marshall,	OLB	SO	6-3	274	Thomaston, Ga./Upson-Lee
+26,	Tyrique McGhee,	DB	SO	5-10	183	Byron, Ga./Peach County
+87,	Miles McGinty,	TE	JR	6-3	221	Savannah ,Ga./Benedictine Military/Kennesaw State
+37,	Jordon McKinney,	DB	RS FR	6-0	187	Dalton, Ga./Dalton
+22,	Avery McNeely,	TB	SR	5-8	174	Athens, Ga./Clarke Central
+1,	Sony Michel, TB	SR	5-11	222	Plantation, Fla./American Heritage
+33,	Isaac Mize,	DB	JR	6-0	185	Gainesville, Ga.//Clemson
+43,	Nick Moore,	FB	JR	6-3	250	Snellville, Ga./Brookwood
+17,	Josh Moran,	WR	RS FR	6-2	193	Alpharetta, Ga./Milton
+18,	Isaac Nauta, TE	SO	6-4	246	Buford, Ga./IMG Academy
+92,	Cameron Nizialek,	P	GS	6-2	200	Chantilly, Va.//Columbia Univ.
+57,	Shahed Noorollahi,	OL	JR	6-2	310	Lawrenceville, Ga.//Ga. Gwinnett
+14,	Malkom Parrish,	CB	SR	5-10	185	Quitman, Ga./Brooks County
+6,	Natrez Patrick, ILB	JR	6-3	238	Atlanta, Ga./Mays
+47,	Christian Payne,	FB	SR	6-1	242	Athens, Ga./Prince Avenue Christian
+84,	Wyatt Payne,	WR	RS SO	6-1	181	Dublin, Ga./Trinity Christian
+49,	Koby Pyrz,	SN	RS FR	6-2	282	Cairo, Ga./Cairo
+23,	J.R. Reed,	DB	RS SO	6-1	194	Frisco, Texas/Prestonwood Christian/Tusla
+96,	Hudson Reynolds,	SN	RS SO	6-4	216	Bainbridge, Ga./Bainbridge
+32,	Monty Rice,	LB	FR	6-1	235	Madison, Ala./James Clemens
+8,	Riley Ridley,	WR	SO	6-2	197	Coconut Creek, Fla./Deerfield Beach
+16,	Caleeb Roberson,	DB	RS FR	6-1	180	Waynesboro, Ga./Burke County
+5,	Julian Rochester,	DL	SO	6-5	304	Powder Springs, Ga./McEachern
+39,	Rashad Roundtree,	ILB	JR	6-1	204	Evans, Ga./Lakeside
+24,	Dominick Sanders,	SS	SR	6-0	193	Tucker, Ga./Tucker
+28,	Cooper Saunders,	WR	FR	6-2	195	Athens, Ga./Oconee County
+3,	Tyler Simmons,	WR	SO	6-0	206	Powder Springs, Ga./McEachern
+55,	Dyshon Sims,	OG	SR	6-4	290	Valdosta, Ga./Lowndes
+23,	Jake Skole,	DB	FR	6-2	215	Roswell, Ga./Blessed Trinity
+27,	KJ Smith,	DB	RS SO	5-11	172	Perry, Ga./Perry
+3,	Roquan Smith, LB	JR	6-1	225	Montezuma, Ga./Macon County
+2,	Jayson Stanley,	WR	JR	6-2	207	Fairburn, Ga./Creekside
+29,	Lucas Stone,	TE	SR	6-4	225	Independence, Ky.//Morehead State
+90,	Tanner Stumpe,	PK	JR	5-8	178	Albany, Ga./Westover
+75,	Thomas Swilley,	OG	SR	6-3	318	Athens, Ga./Cedar Shoals
+44,	Juwan Taylor,	LB	JR	6-1	214	Hollywood, Fla./Hallandale
+78,	Trenton Thompson,	DT	JR	6-4	295	Albany, Ga./Westover
+25,	Steven Van Tiflin,	WR	JR	6-1	207	Saginaw, Mich./Heritage
+2,	Sam Vaughn,	QB	JR	6-3	204	Fort Pierce, Fla./Fort Pierce Central
+15,	D'Andre Walker,	LB	JR	6-3	223	Fairburn, Ga./Langston Hughes
+79,	Allen Williams,	OL	RS FR	6-7	335	Baxley, Ga./Appling County
+23,	Shakenneth Williams,	WR	SR	6-1	208	Macon, Ga./Rutland
+19,	Jarvis Wilson,	DB	JR	6-2	199	Tupelo, Miss./Tupelo
+6,	Javon Wims,	WR	SR	6-4	215	Miami, Fla./Ed White/Hinds CC
+89,	Charlie Woerner,	TE	SO	6-5	251	Tiger, Ga./Rabun County
+77,	Isaiah Wynn,	OG	SR	6-2	302	St. Petersburg, Fla./Lakewood
+92,	Justin Young,	DE	RS SO	6-4	279	Loganville, Ga./Grayson

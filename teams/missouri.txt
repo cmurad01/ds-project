@@ -1,0 +1,85 @@
+1	Anthony Hines	Safety	6-1	195	Sr.	South San Francisco, Calif.	El Camino
+2	TJ Warren	Linebacker	5-11	210	R-So.	Conyers, Ga.	Rockdale County
+2	Micah Wilson	Quarterback	6-3	215	R-Fr.	Tulsa, Okla.	Lincoln Christian
+3	Drew Lock	Quarterback	6-4	225	Jr.	Lee's Summit, Mo.	Lee's Summit
+3	Ronnell Perkins	Safety	6-0	205	R-So.	St. Louis, Mo.	University City
+4	Brandon Lee	Linebacker	6-2	230	R-Jr.	Indianapolis, Ind.	Lawrence Central
+4	Isaiah Miller	Running Back	5-11	195	Fr.	Baldwin, Fla.	Baldwin
+5	Terry Beckner, Jr.	Defensive Lineman	6-4	290	Jr.	East St. Louis, Ill.	East St. Louis
+6	J'Mon Moore	Wide Receiver	6-3	205	R-Sr.	Missouri City, Texas	Elkins
+6	Tavon Ross	Linebacker	6-0	210	R-Jr.	Cochran, Ga.	Bleckley County
+7	Nate Brown	Wide Receiver	6-3	210	R-Jr.	Suwanee, Ga.	North Gwinnett
+7	Cam Hilton	Safety	6-0	190	Jr.	St. Louis, Mo.	Webster Groves
+8	Justin Smith	Wide Receiver	6-7	210	R-So.	Dublin, Ga.	West Laurens
+8	Thomas Wilson	Safety	5-10	200	Sr.	Suwanee, Ga.	Buford
+9	Dimetrios Mason	Wide Receiver	6-0	185	So.	Loganville, Ga.	Grayson
+9	Hayden Rymer	Quarterback	6-1	210	R-Fr.	Windermere, Fla.	First Academy
+10	Jason Reese	Tight End	6-5	255	R-Sr.	Euless, Texas	Trinity
+11	Kendall Blanton	Tight End	6-6	265	R-Jr.	Blue Springs, Mo.	Blue Springs South
+12	Johnathon Johnson	Wide Receiver	5-10	185	R-So.	Memphis, Tenn.	Melrose
+12	Dominic Nelson	Safety	6-0	205	R-Sr.	Florissant, Mo.	Florissant
+14	Ray Wingo	Wide Receiver	5-11	175	R-Jr.	St. Louis, Mo.	St. Louis University High
+15	Grant Jones	Linebacker	6-3	225	R-Jr.	Columbia, Mo.	Hickman
+16	Damarea Crockett	Running Back	5-11	225	So.	Little Rock, Ark.	Christian
+16	Marcell Frazier	Defensive Lineman	6-5	265	R-Sr.	Portland, Ore.	Douglas
+17	DeMarkus Acy	Defensive Back	6-2	195	So.	Dallas, Texas	Wilmer-Hutchins
+17	Richaud Floyd	Wide Receiver	5-11	185	R-So.	Gulfport, Miss.	Gulfport
+18	Dominic Collins	Wide Receiver	6-2	180	Sr.	Lake Forest, Calif.	El Toro
+19	Jack Lowary	Quarterback	6-4	215	R-So.	Huntington Beach, Calif.	Mater Dei
+20	Myles Eaddy	Defensive Lineman	6-0	230	R-Fr.	Plantation, Fla.	American Heritage
+20	Kaleb Prewett	Safety	6-1	210	R-Jr.	Blue Springs, Mo.	Blue Springs
+21	Christian Holmes	Defensive Back	6-1	195	So.	Atlanta, Ga.	McNair
+21	Ish Witter	Running Back	5-10	195	Sr.	Tampa, Fla.	Alonso
+22	Dawson Downing	Running Back	6-0	225	R-Fr.	Mission, Kan.	Bishop Miege
+22	Anthony Sherrils	Defensive Back	6-0	205	R-Sr.	Kansas City, Mo.	Hogan Prep
+24	Terez Hall	Linebacker	6-2	230	Jr.	Lithonia, Ga.	King
+24	Cameren Rivers	Wide Receiver	6-4	195	R-Sr.	St. Louis, Mo.	McCluer North
+26	Corey Fatony	Punter	5-11	205	Jr.	Franklin, Tenn.	Franklin
+28	Logan Cheadle	Defensive Back	5-10	180	Sr.	Lee's Summit, Mo.	Lee's Summit West
+28	Steven Spadarotto	Wide Receiver	6-2	185	Jr.	Santa Maria, Calif.	Righetti
+29	Nate Strong	Running Back	6-0	210	Jr.	East St. Louis, Ill.	East St. Louis
+30	Ryan Dalley	Safety	6-1	190	R-So.	Mundelein, Ill.	Carmel Catholic
+31	Finis Stribling IV	Defensive Back	5-11	190	R-Jr.	Thompson's Station, Tenn.	Independence
+33	Jerod Alton	Defensive Back	5-10	180	R-Fr.	Kirkwood, Mo.	Kirkwood
+34	Joey Burkett	Linebacker	6-2	225	R-Sr.	Jefferson City, Mo.	Jefferson City
+35	Sean Boyd	Defensive Back	5-9	180	R-So.	St. Louis, Mo.	Christian Brothers
+36	Daniel Ellinger	Wide Receiver	6-4	210	R-Fr.	Jefferson City, Mo.	Jefferson City
+38	Eric Beisel	Linebacker	6-3	240	R-Sr.	Fenton, Mo.	Rockwood Summit
+43	Jerney Jones	Running Back	5-10	190	R-Fr.	Republic, Mo.	Republic
+45	Franklin Agbasimere	Defensive Lineman	6-2	245	R-So.	Lagos, Nigeria	Montverde Academy
+45	Ezra Vaoifi	Running Back	5-11	220	Fr.	Independence, Mo.	Fort Osage
+46	Jacob Trump	Linebacker	6-3	225	Jr.	Kahoka, Mo.	Clark County
+47	Cale Garrett	Linebacker	6-3	240	So.	Kearney, Mo.	Kearney
+48	Roderick Winters	Linebacker	5-11	240	R-Jr.	Arlington, Texas	Bowie
+49	Markell Utsey	Defensive Lineman	6-4	310	So.	Little Rock, Ark.	Parkview
+51	Ed Cruz	Defensive Lineman	6-2	240	Sr.	Park Hills, Mo.	Central
+53	Joe Hoy	Linebacker	5-11	210	R-So.	Wauconda, Ill	Carmel Catholic
+54	Trystan Castillo	Offensive Lineman	6-4	320	R-Fr.	Webb City, Mo.	Webb City
+55	Jordan Harold	Defensive Lineman	6-2	265	Sr.	St. Louis, Mo.	McCluer North
+56	Samson Bailey	Offensive Lineman	6-4	295	R-Jr.	Lamar, Mo.	Lamar
+57	Alec Abeln	Offensive Lineman	6-3	305	R-Sr.	St. Louis, Mo.	University
+61	Adam Roland	Defensive Lineman	6-3	320	R-Jr.	St. Louis, Mo.	Oakville
+62	Thomas Grossman	Offensive Lineman	6-3	275	Jr.	St. Louis, Mo.	Chaminade
+66	Adam Ploudre	Offensive Lineman	6-4	320	R-Sr.	Ballwin, Mo.	Marquette
+67	Jonah Dubinski	Offensive Lineman	6-2	295	R-So.	Columbia, Mo.	Rock Bridge
+69	AJ Harris	Offensive Lineman	6-4	305	R-So.	Stilwell, Kan.	Blue Valley
+70	Yasir Durant	Offensive Lineman	6-7	340	So.	Philadelphia, Pa.	Imhotep
+71	Kevin Pendleton	Offensive Lineman	6-4	335	R-Jr.	Lee's Summit, Mo.	Lee's Summit West
+72	Kyle Mitchell	Offensive Lineman	6-5	325	Jr.	Fair Oaks, Calif.	Del Campo
+75	Tre'Vour Simms	Offensive Lineman	6-5	355	So.	East St. Louis, Ill.	East St. Louis
+76	Tyler Howell	Offensive Lineman	6-8	330	Sr.	Bonner Springs, Kan.	Bonner Springs
+77	Paul Adams	Offensive Lineman	6-6	315	R-Jr.	Nashville, Tenn.	Christ Presbyterian
+78	Pompey Coleman	Offensive Lineman	6-5	300	Fr.	Indianapolis, Ind.	Ben Davis
+81	Albert Okwuegbunam	Tight End	6-5	260	R-Fr.	Springfield, Ill.	Sacred Heart Griffin
+81	Harley Whitehouse	Long Snapper	6-0	225	R-So.	St. Louis, Mo.	Parkway Central
+84	Emanuel Hall	Wide Receiver	6-3	200	Jr.	Franklin, Tenn.	Centennial
+86	James Workman	Long Snapper	6-0	225	So.	Renton, Wash.	Liberty
+88	Nate Howard	Defensive Lineman	6-4	250	Jr.	St. Louis, Mo.	Ladue Horton Watkins
+89	Brendan Scales	Tight End	6-4	240	R-Fr.	Wildwood, Mo.	Lafayette
+92	Nick Bartolotta	Kicker	5-6	185	R-Sr.	St. Louis, Mo.	Fox
+93	Andrew Carr	Kicker	6-1	185	Jr.	Cameron, Mo.	Cameron
+93	Tre Williams	Defensive Lineman	6-5	265	R-Fr.	Columbia, Mo.	Rock Bridge
+94	Tyrell Jacobs	Defensive Lineman	6-4	280	R-So.	Kenner, La.	Rummel
+95	Rashad Brandon	Defensive Line	6-3	305	R-Jr.	Jersey City, N.J.	St. Anthony's
+96	A.J. Logan	Defensive Lineman	6-2	325	R-Sr.	Columbia, Mo.	Rock Bridge
+98	Tucker McCann	Kicker	6-0	205	So.	O'Fallon, Ill.	O'Fallon

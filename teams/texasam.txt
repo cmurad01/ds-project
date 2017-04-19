@@ -1,0 +1,102 @@
+1,	Quartney Davis,	WR,	6-2,	200,	Fr.		Houston, Texas / Langham Creek	 
+1,	Nick Harvey,	DB,	5-10,	185,	Sr.		Lancaster, Texas / Richmond Travis	 
+2,	Jhamon Ausbon,	WR,	6-2,	220,	Fr.		Houston, Texas / IMG Academy (Fla.)	 
+3,	Christian Kirk,	WR,	5-11,	200,	Jr.		Scottsdale, Ariz. / Saguaro	 
+4,	Noel Ellis,	DB,	5-10,	185,	Sr.		New Orleans, La. / Karr	 
+4,	Damion Ratley,	WR,	6-3,	195,	Sr.		Yoakum, Texas / Yoakum	Blinn College
+5,	Daylon Mack,	DL,	6-1,	320,	Jr.		Gladewater, Texas / Gladewater	 
+5,	Trayveon Williams, RB,	5-9,	200,	So.		Houston, Texas / C.E. King	 
+6,	Roshauud Paul,	WR,	6-0,	180,	Fr.		Bremond, Texas / Bremond	 
+6,	Donovan Wilson,	DB,	6-1,	200,	Sr.		Shreveport, La. / Woodlawn	 
+7,	Keith Ford,	RB,	5-11,	215,	Sr.		Cypress, Texas / Cypress Ranch	Oklahoma
+7,	Richard Moore,	LB,	6-1,	218,	Jr.		Cedar Hill, Texas / Cedar Hill	 
+8,	Connor Blumrick,	QB,	6-5,	205,	Fr.		Pearland, Texas / Pearland	 
+8,	Justin Dunning,	LB,	6-4,	235,	So.,		Whitehouse, Texas / Whitehouse	 
+9,	Qualen Cunningham, DL, 6-3,	240,	Sr.,		Chandler, Ariz. / Hamilton	 
+9,	Hezekiah Jones,	WR,	5-11,	190,	Fr.,		Stafford, Texas / Stafford	 
+10,	Jake Hubenak, QB,	6-3,	215,	Sr.,		Georgetown, Texas / Georgetown	Blinn JC
+11,	Kellen Mond,	QB,	6-2,	200,	Fr.,		San Antonio, Texas / IMG Academy (Fla.)	 
+11,	Larry Pryor,	DB,	6-0,	205,	So.,		Sulphur Springs, Texas / Sulphur Springs	 
+13,	Reggie Chevis, DL,	6-2,	295,	Sr.,		Houston, Texas / Sharpstown	 
+13,	Jamal Jeffery, DB,	5-9,	180,	Sr.,		Lufkin, Texas / Lufkin	 
+14,	Keldrick Carper,	DB,	6-2,	190,	Fr.		Plain Dealing, La. / Plain Dealing	 
+15,	Aaron Hansford,	WR,	6-3,	230,	So.		Washington, D.C. / St. John's College HS	 
+16,	Hank Hughes,	QB,	6-2,	200,	Fr.		Richardson, Texas / Pearce	 
+16,	Dwaine Thomas,	LB,	6-2,	225,	Jr.		Boutte, La. / Hahnville	 
+17,	Nick Starkel,	QB,	6-3,	205,	Fr.		Argyle, Texas / Liberty Christian	 
+18,	Kemah Siverand, DB,	6-1,	200,	So.		Cypress, Texas / Cypress Ridge	 
+19,	Anthony Hines III,	LB,	6-3,	220,	Fr.		Plano, Texas / Plano East	 
+19,	Colton Taylor	QB,	6-3,	210,	Fr.		Houston, Texas / Memorial	 
+20,	Ikenna Okeke, DB,	6-3,	219,	Fr.		Smyrna, Tenn. / Smyrna	 
+21,	Charles Oliver,	DB,	6-2,	200,	So.		Fairfield, Texas / Fairfield	 
+22,	Clifford Chattman,	DB,	6-5,	190,	So.		New Orleans, La. / McDonough 35	 
+22,	Kwame Etwi, RB,	5-9,	200,	Jr.		Conroe, Texas / Oak Ridge	 
+23,	Armani Watts, DB,	5-11,	205,	Sr.		Forney, Texas / North Forney	 
+24,	Jake Graham,	TE,	6-0,	228,	Fr.		Waco, Texas / Midway	 
+24,	Priest Willis,	DB,	6-2,	200,	Sr.		Tempe, Ariz. /  Marcos De Niza	UCLA
+25,	Kendall Bussey, RB,	5-9,	200,	So.		New Orleans, La. / Newman	 
+25,	Tyrel Dodson,	LB,	6-2,	242,	So.		Franklin, Tenn. / Centennial	 
+26,	Deshawn Capers-Smith,	DB,	6-0,	192,	Jr.		New Orleans, La. / Warren Easton	 
+26,	Victor Davis,	DB,	6-1,	190,	Sr.		Rosenberg, Texas / Terry	 
+27,	John Clark,	RB,	5-8,	200,	Fr.		Northbrook, Ill. /  Glenbrook North	 
+27,	Roney Elam, DB,	6-2,	185,	So.		Newton, Texas /  Newton	 
+28,	Travon Fuller, DB,	6-1,	170,	Fr.		Athens, Texas / Athens	 
+28,	AJ Sanders,	RB,	5-10,	195,	Fr.		The Woodlands, Texas / College Park	 
+30,	Moses Reynolds,	WR,	6-2,	190,	Fr.		San Antonio, Texas / Jay	 
+31,	Gannon Rawlins,	TE,	6-3,	215,	Fr.		Galveston, Texas / Ball	 
+32,	Rakeem Boyd,	RB,	5-11,	205,	Fr.		Houston, Texas / Stratford	 
+32,	Santino Marchiol,	LB,	6-1,	224,	Fr.		Centennial, Colo. / IMG Academy (Fla.)	 
+33,	Kirk Merritt,	WR,	5-11,	210,	So.		Destrehan, La. / Destrehan	Oregon
+34,	Braden Mann,	P/KO,	5-11,	200,	So.		Houston, Texas / Cy-Fair	 
+35,	Justice Bean,	WR,	5-11,	180,	Fr.		Frankston, Texas / Frankston	 
+35,	Riley Garner,	LB,	6-3,	220,	Jr.		College Station, Texas / A&M Consolidated	 
+36,	Daniel LaCamera,	PK/P,	6-4,	225,	Jr.		Tarpon Springs, Fla. / East Lake	 
+37,	Mitchell Howard,	DL,	6-1,	233,	So.		Cypress, Texas / Concordia Lutheran	 
+38,	Drew Riethman,	PLK,	6-0,	190,	Fr.		Fort Worth, Texas / Nolan Catholic	 
+40,	Jarrett Johnson,	DL,	6-3,	260,	Sr.		Katy, Texas / Seven Lakes	 
+41,	Luke Laufenberg,	TE,	6-4,	225,	Fr.		Argyle, Texas / Liberty Christian	 
+42,	Otaro Alaka, LB,	6-3,	240,	Jr.		Houston, Texas / Cypress Falls	 
+42,	Ke'undre Azakytu,	WR,	6-0,	180,	Fr.		Dallas, Texas / Wilmer-Hutchins	 
+45,	Austin FreyClick, DS,	6-1,	225,	Jr.		Tomball, Texas	 
+45,	Cullen Gillaspia,	LB,	6-2,	234,	Jr.		Katy, Texas / Taylor	 
+46,	Landis Durham,	DL,	6-3,	255,	Jr.		Plano, Texas / East	 
+46,	Shane Tripucka,	P,	6-3,	220,	Sr.		Allen, Texas / Allen	 
+47,	Jett Crider,	LB,	6-0,	230,	Jr.		Bellville, Texas / Bellville	 
+49,	Dirk Sanford,	LB,	6-1,	210,	So.		The Woodlands, Texas / The Woodlands Christian Academy	 
+50,	Tank Davis,	OL,	6-4,	290,	Jr.		Garland, Texas / Lakeview Centennial	 
+50,	Mac Labhart,	LB,	6-0,	230,	Jr.		Dallas, Texas / St. Mark's	 
+51,	Riley Anderson,	OL,	6-5,	294,	So.	Mineola, Texas / Mineola	 
+52,	Justin Madubuike, DL,	6-3,	292,	Fr.		McKinney, Texas / McKinney North	 
+53,	Trey McGahan,	LB,	6-1,	200	,Jr.		Kennedale, Texas / Kennedale	 
+55,	Austin Anderson,	OL,	6-4,	297,	So.		Mineola, Texas / Mineola	 
+56,	Keeath Magee II,	LB,	6-0,	215,	Fr.		Houston, Texas / Westfield	 
+58,	Braden White,	LB,	5-11,	220,	Fr.		Florence, Ala. / Florence	 
+60,	Landry Estes,	DL,	6-2,	280,	Jr.		Trophy Club, Texas / Byron Nelson	 
+63,	Cagan Baldree,	OL,	6-4,	283,	Fr.		Carthage, Texas / Carthage	 
+64,	Erik McCoy,	OL,	6-4,	309,	So.		Lufkin, Texas / Lufkin	 
+66,	Robert Congel,	OL,	6-3,	310,	Fr.		Greenwood Village, Colo. / IMG Academy [Fla.]	 
+67,	Drew Beakey,	OL,	6-3,	295,	So.		Houston, Texas / Lutheran South Academy	 
+68,	Justin Dworaczyk,	OL,	6-6,	280,	So.		Houston, Texas / Langham Creek	 
+69,	Brayden Talbert,	OL,	6-4,	280,	So.		Montgomery, Texas / Montgomery	 
+70,	Connor Lanfear, OL,	6-6,	310,	Jr.		Buda, Texas / Buda	 
+73,	Jared Hocker,	OL,	6-5,	318,	Fr.		North Richland Hills, Texas / Birdville	 
+74,	Kellen DieschClick, OL,	6-5,	307,	Fr.		Trophy Club, Texas / Byron Nelson	 
+75,	Koda Martin,	OL,	6-6,	310,	Jr.		Manvel, Texas / Manvel	 
+76,	Colton Prater,	OL,	6-4,	300,	So.		Bossier City, La. / Airline	 
+77,	Ryan McCollum,	OL,	6-5,	295,	Fr.		Spring, Texas / Klein Oak	 
+78,	Keaton Sutherland,	OL,	6-5,	305,	Jr.		Flower Mound, Texas / Marcus	 
+80,	Clyde Chriss,	WR,	6-0,	170,	Fr.		New Orleans, La. / Warren Easton	 
+81,	Jalyn Judkins,	TE,	6-4,	230,	S.		Angleton, Texas / Angleton	 
+83,	Kyle Whitley,	WR,	6-2,	220,	Jr.		Troy, Texas / Troy	 
+84,	Kendrick Rogers,	WR,	6-3,	210,	Fr.		Frankston, Texas / Frankston	 
+85,	Grant Gustafson,	TE,	6-4,	235,	So.		Fort Worth, Texas / All Saints	 
+86,	David Darley,	DE,	6-4,	240,	Sr.		Westlake Village, Calif. / Oaks Christian	 
+86,	Tanner Schorp,	TE,	6-3,	245,	Sr.		San Antonio, Texas / Reagan	 
+87,	Greer Shetler,	TE,	6-4,	215,	So.		San Antonio, Texas / Alamo Heights	 
+88,	Kingsley Keke, DL,	6-4,	300,	Jr.		Richmond, Texas / George Ranch	 
+88,	Matthew Kirchner,	WR,	6-2,	200,	So.		Plano, Texas / Plano	 
+89,	Kalvin Cline,	TE,	6-5,	245,	Sr.		Fort Lauderdale, Fla. / Pine Crest	Virginia Tech
+90,	TD Moton,	DL,	6-3,	305,	Fr.		Shreveport, La. / Woodlawn	 
+91,	K.J. Grimes,	DL,	6-3,	230,	Fr.		College Station, Texas / College Station	 
+92,	Zaycoven Henderson,	DL,	6-2,	305,	Sr.,		Longview TX, Longview	 
+96,	Jesse Brown, DL, 6-0, 285,	Jr., Katy TX, Katy	Navarro JC
