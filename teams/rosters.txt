@@ -1,0 +1,70 @@
+NUMBER: 1 NAME: Ben Davis POSITION: LB HT: 6-4 WT: 235 YEAR: Fr (Redshirt) HOMETOWN/HIGH SCHOOL: Gordo AL/ Gordo High School
+NUMBER: 1 NAME: Robert Foster POSITION: WR HT: 6-2 WT: 196 YEAR: Sr (Redshirt) HOMETOWN/HIGH SCHOOL: Monaca PA/ Central Valley High School
+NUMBER: 2 NAME: Jalen Hurts POSITION: QB HT: 6-2 WT: 214 YEAR: So HOMETOWN/HIGH SCHOOL: Channelview TX/ Channelview High School
+NUMBER: 3 NAME: Calvin Ridley POSITION: WR HT: 6-1 WT: 190 YEAR: Jr HOMETOWN/HIGH SCHOOL: Coconut Creek FL/ Monarch High School
+NUMBER: 3 NAME: Daniel Wright POSITION: DB HT: 6-1 WT: 185 YEAR: Fr HOMETOWN/HIGH SCHOOL: Fort Lauderdale FL/ Boyd Anderson High School
+NUMBER: 4 NAME: Jerry Jeudy POSITION: WR HT: 6-1 WT: 184 YEAR: Fr HOMETOWN/HIGH SCHOOL: Deerfield Beach FL/ Deerfield Beach High School
+NUMBER: 5 NAME: Shyheim Carter POSITION: DB HT: 6-0 WT: 195 YEAR: So HOMETOWN/HIGH SCHOOL: Kentwood LA/ Kentwood High School
+NUMBER: 5 NAME: Ronnie Clark POSITION: RB HT: 6-2 WT: 215 YEAR: Jr (Redshirt) HOMETOWN/HIGH SCHOOL: Calera AL/ Calera High School
+NUMBER: 6 NAME: BJ Emmons POSITION: RB HT: 6-0 WT: 219 YEAR: So HOMETOWN/HIGH SCHOOL: Moganton SC/ Freedom High School
+NUMBER: 6 NAME: Hootie Jones POSITION: DB HT: 6-2 WT: 215 YEAR: Sr HOMETOWN/HIGH SCHOOL: Monroe LA/ Neville High School
+NUMBER: 6 NAME: Dylan Moses POSITION: LB HT: 6-3 WT: 234 YEAR: Fr HOMETOWN/HIGH SCHOOL: Baton Rouge LA/ IMG Academy High School
+NUMBER: 7 NAME: Tony Brown POSITION: DB HT: 6-0 WT: 198 YEAR: Sr HOMETOWN/HIGH SCHOOL: Beaumont TX/ Ozen High School
+NUMBER: 7 NAME: Trevon Diggs POSITION: WR HT: 6-2 WT: 195 YEAR: So HOMETOWN/HIGH SCHOOL: Gaithersburg MD/ Avalon High School
+NUMBER: 8 NAME: Josh Jacobs POSITION: RB HT: 5-10 WT: 209 YEAR: So HOMETOWN/HIGH SCHOOL: Tulsa OK/ Mclain High School
+NUMBER: 9 NAME: Da'Shawn Hand POSITION: DL HT: 6-4 WT: 282 YEAR: Sr HOMETOWN/HIGH SCHOOL: Woodbridge VA/ Woodbridge High School
+NUMBER: 9 NAME: Bo Scarbrough POSITION: RB HT: 6-2 WT: 232 YEAR: Jr HOMETOWN/HIGH SCHOOL: Northport AL/ Tuscaloosa County High School
+NUMBER: 10 NAME: Mac Jones POSITION: QB HT: 6-2 WT: 185 YEAR: Fr HOMETOWN/HIGH SCHOOL: Jacksonville FL/ The Bolles High School
+NUMBER: 12 NAME: Chadarius Townsend POSITION: RB HT: 6-0 WT: 192 YEAR: Fr HOMETOWN/HIGH SCHOOL: Tanner AL/ Tanner High School
+NUMBER: 13 NAME: Nigel Knott POSITION: DB HT: 5-11 WT: 183 YEAR: Fr (Redshirt) HOMETOWN/HIGH SCHOOL: Madison MI/ Germantown High School
+NUMBER: 13 NAME: Tua Tagovailoa POSITION: QB HT: 6-1 WT: 219 YEAR: Fr HOMETOWN/HIGH SCHOOL: Ewa Beach HI/ St Louis High School
+NUMBER: 14 NAME: Tyrell Shavers POSITION: WR HT: 6-6 WT: 209 YEAR: Fr HOMETOWN/HIGH SCHOOL: Lewisville TX/ Lewisville High School
+NUMBER: 14 NAME: Deionte Thompson POSITION: DB HT: 6-2 WT: 193 YEAR: So (Redshirt) HOMETOWN/HIGH SCHOOL: Orange TX/ West Orange-Stark High School
+NUMBER: 15 NAME: Ronnie Harrison POSITION: DB HT: 6-3 WT: 214 YEAR: Jr HOMETOWN/HIGH SCHOOL: Tallahassee FL/ FSU University High School
+NUMBER: 15 NAME: JK Scott POSITION: P HT: 6-6. 204 WT: Sr YEAR: Denver CO HOMETOWN/HIGH SCHOOL: Mullen
+16/ Jamey Mosley, LB, 6-5, 244, Jr (Redshirt), Mobile AL, Theodore High School
+NUMBER: 16 NAME: TJ Simmons POSITION: WR HT: 6-2 WT: 202 YEAR: So HOMETOWN/HIGH SCHOOL: Pinson AL/ Clay-Chalkville High School
+NUMBER: 17 NAME: Cam Sims POSITION: WR HT: 6-5 WT: 205 YEAR: Sr HOMETOWN/HIGH SCHOOL: Monroe LA/ Ouachita Parish High School
+NUMBER: 19 NAME: Shawn Jennings POSITION: DB HT: 6-1 WT: 223 YEAR: Fr (Redshirt) HOMETOWN/HIGH SCHOOL: Dadeville AL/ Dadeville High School
+NUMBER: 19 NAME: Montana Murphy POSITION: QB HT: 6-3 WT: 205 YEAR: So HOMETOWN/HIGH SCHOOL: Southlake TX/ Carroll Senior High School
+NUMBER: 20 NAME: Shaun Dion Hamilton POSITION: LB HT: 6-0 WT: 233 YEAR: Sr HOMETOWN/HIGH SCHOOL: Montgomery AL/ Carver High School
+NUMBER: 21 NAME: Rogria Lewis POSITION: DB HT: 5-11 WT: 196 YEAR: Sr. Birmingham AL HOMETOWN/HIGH SCHOOL: Gardendale
+21/ Jared Mayden. DB, 6-0, 197, So, Sachse TX, Sachse High School
+NUMBER: 22 NAME: Najee Harris POSITION: RB HT: 6-2 WT: 227 YEAR: Fr HOMETOWN/HIGH SCHOOL: Antioch CA/ Antioch High School
+NUMBER: 23 NAME: Aaron Robinson POSITION: DB HT: 6-1 WT: 185 YEAR: Deerfield Beach FL HOMETOWN/HIGH SCHOOL: Deerfield Beach
+24/ Terrell Hall, LB, 6-5, 251, So, Washington DC, St Johns High School
+NUMBER: 24 NAME: Brian Robinson Jr POSITION: RB HT: 6-1 WT: 218 YEAR: Fr HOMETOWN/HIGH SCHOOL: Tuscaloosa AL/ Hillcrest High School
+NUMBER: 25 NAME: Xavier Mckinney POSITION: DB HT: 6-1 WT: 192 YEAR: Fr HOMETOWN/HIGH SCHOOL: Roswell GA/ Roswell High School
+NUMBER: 26 NAME: Kyriq McDonald POSITION: DB HT: 5-11 WT: 194 YEAR: Fr HOMETOWN/HIGH SCHOOL: Madison AL/ James Clemens High School
+NUMBER: 28 NAME: Anthony Averett POSITION: DB HT: 6-0 WT: 185 YEAR: Sr (Redshirt) HOMETOWN/HIGH SCHOOL: Woodbury NJ/ Woodbury High School
+NUMBER: 29 NAME: Minkah Fitzpatrick POSITION: DB HT: 6-1 WT: 201 YEAR: Jr HOMETOWN/HIGH SCHOOL: Old Bridge NJ/ St Peters Prep High School
+NUMBER: 30 NAME: Ryan Burns POSITION: DB HT: 6-0 WT: 214 YEAR: So HOMETOWN/HIGH SCHOOL: Dallas GA/ Hillgrove High School
+NUMBER: 30 NAME: Daniel Skehan POSITION: WR HT: 6-0 WT: 201 YEAR: Sr HOMETOWN/HIGH SCHOOL: Lancaster PA/ Catholic High School
+NUMBER: 30 NAME: Mack Wilson POSITION: LB HT: 6-3 WT: 231 YEAR: So HOMETOWN/HIGH SCHOOL: Montgomery LA/ Carver High School
+NUMBER:  NAME: Mack Wilson POSITION: LB HT: 6-3 WT: 231 YEAR: So HOMETOWN/HIGH SCHOOL: Montgomery LA/ Carver High School
+NUMBER: 4 NAME: Brandon Powell POSITION: WR HT: 5-11 WT: 184 YEAR: Junior HOMETOWN/HIGH SCHOOL: Deerfield Beach FL/ Deerfield Beach High School High School
+NUMBER: 7 NAME: Duke Dawson POSITION: DB HT: 5-10 WT: 208 YEAR: Junior HOMETOWN/HIGH SCHOOL: Cross City FL/ Dixie County High School High School
+NUMBER: 8 NAME: Nick Washington POSITION: DB HT: 6-0 WT: 197 YEAR: Junior (Redshirt) HOMETOWN/HIGH SCHOOL: Jacksonville FL/ Trinity Christian Academy High School
+NUMBER: 9 NAME: Dre Massey POSITION: WR HT: 5-9 WT: 180 YEAR: Junior HOMETOWN/HIGH SCHOOL: Greenville SC/ Mauldin High School
+NUMBER: 10 NAME: Josh Hammond POSITION: WR HT: 6-1 WT: 186 YEAR: Freshman HOMETOWN/HIGH SCHOOL: Hallandale FL/ Hallandale High School
+NUMBER: 11 NAME: Vosean Joseph POSITION: LB HT: 6-1 WT: 226 YEAR: Freshman HOMETOWN/HIGH SCHOOL: Miami FL/ Norland High School
+NUMBER: 11 NAME: Kyle Trask POSITION: QB HT: 6-4 WT: 238 YEAR: Freshman HOMETOWN/HIGH SCHOOL: Manvel TX/ Manvel High School
+NUMBER: 12 NAME: CJ McWilliams POSITION: DB HT: 5-11 WT: 171 YEAR: Freshman HOMETOWN/HIGH SCHOOL: Miami FL/ Southwest High School
+NUMBER: 13 NAME: Feleipe Franks POSITION: QB HT: 6-6 WT: 291 YEAR: Fr HOMETOWN/HIGH SCHOOL: Crawfordville FL/ Wakulla High School
+NUMBER: 14 NAME: Luke Del Rio POSITION: QB HT: 6-1 WT: 211 YEAR: So (Redshirt) HOMETOWN/HIGH SCHOOL: Santa Rosa Beach FL/ Valor Christian High School
+NUMBER: 14 NAME: Chris Williamson POSITION: DB HT: 5-11 WT: 191 YEAR: So HOMETOWN/HIGH SCHOOL: Gainesville GA/ Gainesville High School
+NUMBER: 15 NAME: Eddie Pineiro POSITION: K HT: 6-0 WT: 173 YEAR: So (Redshirt) HOMETOWN/HIGH SCHOOL: Miami FL/ Sunset High School
+NUMBER: 16 NAME: Brian Fallace POSITION: TE HT: 6-4 WT: 209 YEAR: So (Redshirt) HOMETOWN/HIGH SCHOOL: Satellite Beach FL/ Palm Bay High School
+NUMBER: 16 NAME: Freddie Swain POSITION: WR HT: 6-0 WT: 186 YEAR: Fr HOMETOWN/HIGH SCHOOL: Ocala FL/ North Marion High School
+NUMBER: 17 NAME: Jordan Sherit POSITION: DL HT: 6-4 WT: 254 YEAR: Jr (Redshirt) HOMETOWN/HIGH SCHOOL: Tampa/ Hillsborough High School
+NUMBER: 17 NAME: Kadarius Toney POSITION: ATH HT: 5-11 WT: 180 YEAR: Fr HOMETOWN/HIGH SCHOOL: Eight Mile AL/ Blount High School
+NUMBER: 19 NAME: Johnny Townsend POSITION: P HT: 6-1 WT: 211 YEAR: Jr (Redshirt) HOMETOWN/HIGH SCHOOL: Orlando FL/ Boone High School
+NUMBER: 21 NAME: McArthur Burnett POSITION: DB HT: 5-9 WT: 174 YEAR: Fr HOMETOWN/HIGH SCHOOL: Pahokee FL/ Pahokee High School
+NUMBER: 22 NAME: Lamical Perine POSITION: RB HT: 5-11 WT: 221 YEAR: Fr HOMETOWN/HIGH SCHOOL: Theodore AL/ Theodore High School
+NUMBER: 23 NAME: Chauncey Gardner POSITION: DB HT: 5-11 WT: 221 YEAR: Fr HOMETOWN/HIGH SCHOOL: Cocoa FL/ Cocoa High School
+NUMBER: 24 NAME: Mark Thompson POSITION: RB HT: 6-2 WT: 237 YEAR: Jr (Redshirt) HOMETOWN/HIGH SCHOOL: La Mott PA/ Cheltenham High School
+NUMBER: 25 NAME: Jordan Scarlett POSITION: RB HT: 5-10 WT: 213 YEAR: So HOMETOWN/HIGH SCHOOL: Fort Lauderdale FL/ St Thomas Aquinas High School
+NUMBER: 25 NAME: Brady Walters POSITION: DB HT: 5-11 WT: 176 YEAR: Jr HOMETOWN/HIGH SCHOOL: Clermont FL/ South Lake High School
+NUMBER: 26 NAME: Marcel Harris POSITION: DB HT: 6-1 WT: 211 YEAR: Jr (Redshirt) HOMETOWN/HIGH SCHOOL: Orlano FL/ Dr Phillips High School
+NUMBER: 
+ NAME: Marcel Harris POSITION: DB HT: 6-1 WT: 211 YEAR: Jr (Redshirt) HOMETOWN/HIGH SCHOOL: Orlano FL/ Dr Phillips High School

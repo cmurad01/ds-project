@@ -1,0 +1,83 @@
+#include <iostream>
+#include <string>
+#include <vector>
+#include <fstream>
+#include <iomanip>
+
+using namespace std;
+
+// Function Prototypes
+void openRoster(ifstream &, string, ifstream &, string);
+
+
+// Struct
+struct rosterData {
+	string number;
+	string firstName;
+	string lastName;
+	string position;
+	string height;
+	string weight;
+	string year;
+	string hometown;
+	string highSchool;
+};
+
+int main() {
+	vector<rosterData> ros1, ros2;
+	ifstream inRoster1, inRoster2;
+	string roster1, roster2;
+	cout << "Please enter the name of the first roster: " << endl;
+	getline(cin, roster1);
+	cout << "Please enter the name of the second roster: " << endl;
+	getline(cin, roster2);
+	openRoster(inRoster1, roster1, inRoster2, roster2);
+	rosterData r1, r2;
+	for (int = 0; i < ros1.size(); i++) {
+		inRoster1 >> r1[i].number >> r1[i].firstName >> r1[i].lastName >> r1[i].position >> r1[i].height >> r1[i].weight >> r1[i].year >> r1[i].hometown >> r1[i].highSchool;
+		ros1.push_back(r1);
+	}
+	inRoster2 >> r2.number >> r2.firstName >> r2.lastName >> r2.position >> r2.height >> r2.weight >> r2.year >> r2.hometown >> r2.highSchool;
+	ros2.push_back(r2);
+	vector<rosterData>::iterator it;
+
+	cout << "Player contains: ";
+	for (int i = 0; i < ros1.end(); i++) {
+		cout << " " << r1[i].number;
+		cout << " " << r1[i].firstName;
+		cout << " " << r1[i].lastName;
+		cout << " " << r1[i].position;
+		cout << " " << r1[i].height;
+		cout << " " << r1[i].weight;
+		cout << " " << r1[i].year;
+		cout << " " << r1[i].hometown;
+		cout << " " << r1[i].highSchool;
+	}
+	for (it = ros2.begin(); it < ros2.end(); it++) {
+		cout << " " << (*it).number;
+		cout << " " << (*it).firstName;
+		cout << " " << (*it).lastName;
+		cout << " " << (*it).position;
+		cout << " " << (*it).height;
+		cout << " " << (*it).weight;
+		cout << " " << (*it).year;
+		cout << " " << (*it).hometown;
+		cout << " " << (*it).highSchool;
+	}
+	return 0;
+}
+
+void openRoster(ifstream &inRoster1, string roster1, ifstream &inRoster2, string roster2) {
+	inRoster1.open(roster1.c_str());
+	inRoster2.open(roster2.c_str());
+
+	if (!inRoster1) {
+		cout << "Could not open " << roster1 << endl;
+		return;
+	}
+	if (!inRoster2) {
+		cout << "Could not open " << roster2 << endl;
+		return;
+	}
+}
+
