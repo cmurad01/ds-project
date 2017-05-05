@@ -1,0 +1,93 @@
+2	Dorian Baker	WR	Senior	6'3"	211 lbs	Cleveland Heights	Ohio	Cleveland Heights
+3	Jordan Griffin	DB	Sophomore	6'0"	186 lbs	Jonesboro	Ga.	Jonesboro
+5	Kendall Randolph	CB	Senior	6'0"	183 lbs	Tallahassee	Fla.	Lincoln
+6	Blake Bone	WR	Senior	6'5"	213 lbs	Woodruff	S.C.	Woodruff
+6	Lonnie Johnson	CB	Junior	6'3"	203 lbs	Gary	Ind.	Garden City CC
+7	Drew Barker	QB	Junior	6'3"	222 lbs	Burlington	Ky.	Conner
+7	Mike Edwards	S	Junior	6'0"	200 lbs	Cincinnati	Ohio	Winton Woods
+8	Derrick Baity	CB	Junior	6'3"	186 lbs	Tampa	Fla.	H.B. Plant
+8	Jabari Greenwood	WR	Sophomore	6'3"	195 lbs	Washington	D.C.	Gonzaga
+9	Garrett Johnson	WR	Senior	5'11"	175 lbs	Winter Garden	Fla.	West Orange
+9	Davonte Robinson	CB	Freshman (RS)	6'2"	187 lbs	Lexington	Ky.	Henry Clay
+10	Asim "A.J." Rose	RB	Freshman (RS)	6'1"	212 lbs	Cleveland	Ohio	Garfield Heights
+11	Tavin Richardson	WR	Sophomore	6'3"	214 lbs	Duncan	S.C.	Byrnes
+12	Gunnar Hoak	QB	Freshman (RS)	6'4"	206 lbs	Dublin	Ohio	Dublin Coffman
+13	Danny Clark	QB	Freshman	6'2"	230 lbs	Columbus	Ohio	Archbishop Hoban
+13	Zy'Aire Hughes	ATH	Freshman (RS)	6'1"	193 lbs	Paducah	Ky.	McCracken County
+14	Luke Wright	QB	Junior	6'4"	206 lbs	Atlanta	Ga.	Cincinnati
+15	Stephen Johnson	QB	Senior	6'2"	185 lbs	Rancho Cucamonga	Calif.	Grambling/College of the Desert
+16	Marcus Walker	S	Sophomore	6'1"	212 lbs	Lake Wales	Fla.	Lake Wales
+17	Tobias Gilliam	DB	Freshman (RS)	5'11"	191 lbs	Dayton	Ohio	Wayne
+17	Walker Wood	QB	Freshman	6'0"	181 lbs	Lexington	Ky.	Lafayette
+18	Clevan Thomas	WR	Freshman	5'11"	205 lbs	Miami	Fla.	Charles W. Flanagan
+19	Kayaune Ross	WR	Junior	6'6"	225 lbs	West Chester	Ohio	Phoenix College
+20	Kengera Daniel	DE	Junior	6'5"	260 lbs	Raleigh	N.C.	Millbrook
+20	Ryan Kendall	WR	Junior	5'10"	196 lbs	Charlotte	N.C.	Cuthbertson
+21	Chris Westry	CB	Junior	6'4"	195 lbs	Orange Park	Fla.	Oakleaf
+22	Sihiem King	RB	Junior	5'9"	172 lbs	Moultrie	Ga.	Colquitt County
+23	Brayden Berezowitz	WR	Freshman (RS)	5'9"	170 lbs	Lexington	Ky.	Henry Clay
+24	Bryant Koback	RB	Freshman	6'0"	193 lbs	Holland	Ohio	Springfield
+25	Harold Turks	RB	Freshman (RS)	5'10"	182 lbs	Nashville	Tenn.	Montgomery Bell Academy
+25	Darius West	S	Junior	6'0"	210 lbs	Lima	Ohio	Central Catholic
+26	Jack Jackson	DB	Freshman (RS)	5'11"	167 lbs	Lexington	Ky.	Henry Clay
+26	Benjamin Snell, Jr.	RB	Sophomore	5'11"	223 lbs	Westerville	Ohio	Westerville Central
+27	Bryan Berezowitz	WR	Freshman (RS)	5'9"	175 lbs	Lexington	Ky.	Henry Clay
+27	Cedrick Dort, Jr.	CB	Freshman	5'11"	170 lbs	West Palm Beach	Fla.	Dwyer
+28	Kei Beckham	CB	Sophomore	5'11"	169 lbs	Trotwood	Ohio	Trotwood-Madison
+28	Zach Johnson	RB	Freshman (RS)	5'10"	188 lbs	Cincinnati	Ohio	Colerain
+30	Marvin Robinson	WR	Sophomore	6'4"	175 lbs	Fort Lauderdale	Fla.	Stranahan
+31	David Bouvier	WR	Junior	5'9"	171 lbs	Lexington	Ky.	Lexington Catholic
+31	Jamar "Boogie" Watson	LB	Freshman (RS)	6'3"	240 lbs	Forestville	Md.	Bishop McNamara
+32	Eli Brown	LB	Sophomore	6'2"	215 lbs	Bowing Green	Ky.	Warren East
+32	William Mahone III	RB	Senior	5'9"	200 lbs	Cincinnati	Ohio	Lakota East
+33	Roland Walder	LB	Freshman (RS)	6'3"	228 lbs	Dayton	Ohio	Trotwood-Madison
+34	Jordan Jones	LB	Junior	6'2"	221 lbs	Youngstown	Ohio	Cardinal Mooney
+35	Denzil Ware	DE	Junior	6'2"	245 lbs	Opp	Ala.	Senior
+36	Jacob Hyde	NT	Senior	6'2"	320 lbs	Manchester	Ky.	Clay County
+36	Jake Sauder	TE	Freshman (RS)	6'3"	220 lbs	Pittsburgh	Pa.	
+37	Spencer Foy	LB	Junior	6'4"	236 lbs	Louisville	Ky.	Louisville
+39	Elijah Barnett	LB	Sophomore	6'3"	235 lbs	Lexington	Ky.	Henry Clay
+41	Josh Allen	LB	Junior	6'5"	230 lbs	Montclair	N.J.	Montclair
+42	Tristan Yeomans	LS	Junior	6'2"	198 lbs	Waycross	Ga.	New Mexico Military Institute
+43	Logan Blue	LB	Junior	6'4"	240 lbs	Owensboro	Ky.	Owensboro
+44	Jamin Davis	LB	Freshman	6'4"	212 lbs	Ludowici	Ga.	Long County
+45	Jaylin Bannerman	LB	Freshman (RS)	6'5"	238 lbs	Pickerington	Ohio	Pickerington Central
+46	Drew Schlegel	LB	Freshman (RS)	5'11"	221 lbs	Parker	Colo.	Regis Jesuit
+47	Jordan Bonner	LB	Junior	6'5"	222 lbs	Lyndhurst	Ohio	Northeastern Oklahoma A&M
+48	Brett Slusher	DB	Sophomore	6'2"	196 lbs	Fort Mitchell	Ky.	Beechwood
+51	Courtney Love	LB	Senior	6'2"	242 lbs	Youngstown	Ohio	Nebraska
+52	Drake Jackson	C	Freshman (RS)	6'2"	290 lbs	Versailles	Ky.	Woodford County
+53	Blake Best	LS	Sophomore	6'1"	246 lbs	Duluth	Ga.	Peachtree Ridge
+54	Colton Piatt	LS	Freshman (RS)	6'3"	205 lbs	Nashville	Tenn.	Lipscomb Academy
+55	David Baumer	G	Junior	6'5"	311 lbs	Cincinnati	Ohio	LaSalle
+56	Kash Daniel	LB	Sophomore	6'1"	248 lbs	Paintsville	Ky.	Paintsville
+59	Kordell Looney	DT	Freshman (RS)	6'3"	293 lbs	Springfield	Ohio	Springfield
+60	Calvin Taylor, Jr.	DT	Sophomore	6'9"	305 lbs	Augusta	Ga.	Augusta Christian
+62	Dylan Greenberg	G	Senior	6'2"	302 lbs	Tucson	Ariz.	Youngstown State
+64	George Asafo-Adjei	G	Junior	6'5"	315 lbs	West Chester	Ohio	Lakota West
+65	Jervontius Stallings	C	Junior	6'3"	315 lbs	Hoover	Ala.	Spain Park
+67	Landon Young	OL	Sophomore	6'7"	305 lbs	Lexington	Ky.	Lafayette
+68	Nick Haynes	G	Senior	6'3"	300 lbs	Niceville	Fla.	Niceville
+69	Matt Elam	DT	Senior	6'7"	360 lbs	Elizabethtown	Ky.	John Hardin
+71	Logan Stenberg	G	Sophomore	6'6"	318 lbs	Madison	Ala.	James Clemens
+73	Kyle Meadows	T	Senior	6'5"	300 lbs	West Chester	Ohio	Lakota West
+74	Cole Mosier	T	Senior	6'6"	335 lbs	Walton	Ky.	Walton-Verona
+75	Tate Leavitt	T	Junior	6'6"	317 lbs	Thornville	Ohio	Hutchinson CC
+77	Naquez Pringle	DT	Senior	6'3"	320 lbs	Georgetown	S.C.	Itawamba Community College
+77	Mason Wolfe	T	Sophomore	6'6"	310 lbs	Henderson	KY	Henderson County
+79	Luke Fortner	T	Freshman (RS)	6'6"	305 lbs	Sylvania	Ohio	Sylvania Northview
+83	Justin Rigg	TE	Sophomore	6'6"	246 lbs	Springboro	Ohio	Springboro
+84	Charles Moushey	WR	Senior	6'0"	180 lbs	Westerville	Ohio	Westerville Central
+85	Greg Hart	TE	Senior	6'5"	245 lbs	Dayton	Ohio	Nebraska
+86	Grant McKinniss	P	Sophomore	6'1"	210 lbs	Findlay	Ohio	Findlay
+87	C.J. Conrad	TE	Junior	6'5"	245 lbs	LaGrange	Ohio	Keystone
+88	Charles Walker	WR	Senior	5'11"	203 lbs	Louisville	Ky.	St. Xavier
+90	T.J. Carter	DE	Sophomore	6'4"	280 lbs	Mableton	Ga.	Whitefield Academy
+91	Tyler Pack	K	Freshman (RS)	6'4"	275 lbs	Paintsville	Ky.	Johnson Central
+92	Alvonte Bell	DE	Senior	6'5"	260 lbs	Miramar	Fla.	Pearl River CC
+93	Ja'Quize Cross	DL	Freshman (RS)	6'3"	302 lbs	New Market	Ala.	Buckhorn
+95	Miles Butler	K	Junior	5'9"	171 lbs	Paducah	Ky.	Tilghman
+97	Kevin Kirby	DL	Freshman (RS)	6'6"	248 lbs	Louisville	Ky.	Waggener
+98	Tymere Dubose	DT	Junior	6'5"	320 lbs	Youngstown	Ohio	Youngstown Christian
+99	Austin MacGinnis	K	Senior	5'10"	172 lbs	Wedowee	Ala.	Prattville
+99	Adrian Middleton	DT	Junior	6'3"	275 lbs	Bowling Green	Ky.	South Warren

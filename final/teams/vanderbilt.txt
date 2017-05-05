@@ -1,0 +1,73 @@
+2	Arnold Tarpley	S	6-1	204	SR	Pittsburgh, Pa./Central Catholic
+2	Deuce Wallace	QB	6-2	205	RS FR	Sevierville, Tenn./Sevier County
+3	Shawn Stankavage	QB	6-2	202	RS JR	Durham, N.C./Cardinal Gibbons
+3	Taurean Ferguson	CB	5-9	190	RS SR	Jonesboro, Ga./Jonesboro
+4	Donaven Tennyson	WR	5-10	170	SO	Richmond, Va./Benedictine College Prep
+4	Emmanuel Smith	LB	6-2	225	SR	Murfreesboro, Tenn./Oakland
+5	LaDarius Wiley	S	6-1	205	SR	Los Angeles, Calif./Cathedral
+6	Zaire Jones	DB	6-0	198	RS FR	Meridian, Miss./Meridian
+7	Dimitri Moore	LB	6-3	208	FR	Cedar Hill, Texas/Cedar Hill
+7	Ralph Webb	RB	5-10	202	RS SR	Gainesville, Fla./Gainesville
+8	Joejuan Williams	CB	6-3	205	SO	Nashville, Tenn./Father Ryan/Hendersonville
+9	Caleb Peart	OLB	6-1	234	RS SO	Chandler, Ariz./Hamilton
+9	Caleb Scott	WR	6-2	202	SR	Suwanee, Ga./North Gwinnett
+10	Trent Sherfield	WR	6-1	200	SR	Danville, Ill./Danville
+11	Charles Wright	OLB	6-3	242	RS JR	Irvine, Calif./Beckman
+12	Tae Daley	DB	6-0	185	FR	Warner Robins, Ga./Northside
+13	Jackson Winrow	WR	6-1	185	RS FR	Shawnee, Okla./Shawnee
+14	Ryan White	S	5-10	192	RS SR	Louisville, Ky./Trinity
+14	Kyle Shurmur	QB	6-4	224	JR	Philadelphia, Pa./La Salle College
+15	Elijah Hamilton	DB	6-2	195	RS FR	Roswell, Ga./Blessed Trinity Catholic
+16	Kalija Lipscomb	WR	6-1	192	SO	New Orleans, La./Jesuit
+17	Tommy Openshaw	PK	6-2	200	RS SR	Jacksonville, Fla./Creekside
+19	C.J. Duncan	WR	5-11	203	RS SR	Montgomery, Ala./St. James School
+19	Sam Loy	P	6-1	200	SO	San Clemente, Calif./Santa Margarita Catholic
+20	Oren Burks	OLB	6-3	226	RS SR	Fairfax Station, Va./South County
+21	Donovan Sheffield	CB	5-11	195	JR	Nashville, Tenn./Ensworth
+22	Josh Crawford	RB	5-10	202	JR	Montgomery, Ala./Edgewood Acad.
+23	Khari Blasingame	RB	6-1	235	RS JR	Huntsville, Ala./Buckhorn
+25	Josh Smith	ILB	6-4	236	JR	Murfreesboro, Tenn./Oakland
+26	Andrew Rector	S	6-0	198	JR	Nashville, Tenn./Father Ryan
+27	Jaire George	FB	6-1	215	RS SO	Hyattville, Md./DeMatha Catholic HS
+28	Dallas Rivers	RB	6-1	225	SR	Stone Mountain, Ga./Stephenson
+29	Austin Quillen	S	5-11	190	RS FR	Jenks, Okla./Jenks
+30	Bryce Lewis	CB	6-0	185	RS JR	Lilburn, Ga./Parkview
+31	Tre Herndon	CB	6-1	188	SR	Chattanooga, Tenn./East Hamilton
+32	Jamauri Wakefield	RB	6-1	218	RS FR	Jacksonville, Fla./Providence
+33	Jay Hockaday	ILB	6-3	228	RS SO	Nashville, Tenn./Christ Presbyterian Acad.
+34	Dare Odeyingbo	DE	6-2	262	JR	Irving, Texas/Cistercian Prep
+35	Frank Coppet	DB	5-11	185	RS FR	Fort Lauderdale, Fla./St. Thomas Aquinas
+36	Trey Ellis	WR	5-9	170	SR	Charlotte, N.C./Ardrey Kell
+38	Gil Barksdale	DB	5-10	180	SO	Solon, Ohio/Solon
+39	Bailey McElwain	FB	6-1	238	SO	Trussville, Ala./Hewitt-Trussville
+40	Baffour Osei	RB	5-8	180	RS JR	Accra, Ghana/Oaks Christian
+40	Jordan Griffin	ILB	6-0	226	JR	Tampa, Fla./Armwood HS
+42	Kenny Hebert	OLB	6-4	222	RS FR	New Orleans, La./Holy Cross
+45	Cody Markel	TE	6-5	245	RS FR	Middleton, Wisc./Middleton
+47	Tommy Schiager	SN	6-2	220	RS FR	Portland, Ore./Sunset
+48	Andre Mintze	OLB	6-3	232	RS FR	Philadelphia, Pa./Imhotep Institute
+49	Jonathan Wynn	DE	6-4	265	RS SR	Stone Mountain, Ga./Stephenson
+53	Sean Auwae-McMoore	OL	6-4	305	RS FR	Kapolei, Hawaii/Kapolei
+54	Kade Mayle	DL	6-2	275	JR	McConnelsville, Ohio/Morgan
+55	David Floyd	OL	6-5	290	RS FR	Nashville, Tenn./Lipscomb Academy
+57	Ean Pfeifer	OL	6-4	305	RS SO	Bentonville, Ark./Bentonville
+57	Josiah Sa'o	DL	6-2	298	RS FR	San Diego, Calif./Kearney
+58	Justin Skule	OL	6-6	310	JR	Clifton, Va./Centreville
+60	Cole Hardin	OL	6-4	305	RS JR	Florence, Ala./Florence
+61	Bruno Reagan	OG	6-3	315	RS JR	Clarksville, Tenn./Clarksville
+65	Braden Kopp	OL	6-5	288	RS FR	Houston, Texas/Houston Christian
+70	Darion DeBrossard	OL	6-4	295	RS SO	Snellville, Ga./Shiloh
+71	Jared Southers	OL	6-4	310	RS SO	South Orange, N.J./Seton Hall Prep
+74	Jay Woods	DL	6-3	292	RS SR	Jackson, Ga./Jackson
+75	Bailey Granier	OL	6-6	316	RS JR	Galliano, La./South Lafourche
+76	Egidio DellaRipa	OL	6-4	295	RS JR	Castaic, Calif./West Ranch/College of the Canyons (Calif.)
+77	Devin Cochran	OL	6-7	305	RS FR	Norcross, Ga./Greater Atlanta Christian
+77	Nifae Lealao	DT	6-5	312	SR	Sacramento, Calif./Capital Christian
+80	Jared Pinkney	TE	6-4	250	RS SO	Norcross, Ga./Norcross
+82	Turner Cockrell	TE	6-5	230	RS FR	Acworth, Ga./Allatoona
+83	Nathan Marcus	TE	6-5	245	RS SR	Glen Ellyn, Ill./Glenbard West
+84	Sam Dobbs	TE	6-4	230	JR	Douglasville, Ga./Landmark Christian
+90	Cameron Tidd	DL	6-3	290	RS FR	Greenwood, Ind./Center Grove
+91	Drew Birchmeier	DL	6-4	292	RS FR	Midlothian, Va./Cosby
+97	Reid Nelson	P	6-2	215	SR	Hueytown, Ala./Hueytown HS
+98	Ryley Guay	PK	5-10	170	SO	Naperville, Ill./Benet Academy

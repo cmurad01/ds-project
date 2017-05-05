@@ -1,0 +1,99 @@
+1	A.J. Brown	WR	6-1/225	SO-1L	Starkville, Miss./Starkville
+2	Deontay Anderson	DB	6-1/219	SO-1L	Houston, Texas/Manvel
+3	DeMarquis Gates	LB	6-2/219	SR-3L	Hampton, Ga./Lovejoy
+4	C.J. Hampton	DB	6-0/190	SR-3L	Meridian, Miss./Meridian
+4	Tré Nixon	WR	6-1/172	FR-RS	Viera, Fla./Viera
+5	DaMarkus Lodge	WR	6-2/190	JR-2L	Cedar Hill, Texas/Cedar Hill
+5	Ken Webster	DB	5-11/185	SR-3L	Decatur, Ga./Stockbridge
+7	Jalen Julius	DB	5-10/184	SO-1L	Winter Garden, Fla./West Orange
+7	Jason Pellerin	QB/TE	6-4/235	SO-1L	New Iberia, La./New Iberia Catholic
+9	Breeland Speaks	DT	6-3/290	JR-2L	Jackson, Miss./Callaway
+10	Jordan Ta'amu	QB	6-2/207	JR-JC	Pearl City, Hawaii/Pearl City/New Mexico Military
+11	Markell Pack	WR	6-2/196	SR-3L	Purvis, Miss./Purvis
+12	Van Jefferson	WR	6-2/192	SO-1L	Brentwood, Tenn./Ravenwood
+13	Grant Restmeyer	QB	6-3/235	FR-RS	McKinney, Texas/McKinney Boyd
+14	Victor Evans	DE	6-3/243	JR-2L	Dallas, Texas/Skyline
+14	D.K. Metcalf	WR	6-4/224	SO-1L	Oxford, Miss./Oxford
+15	Octavious Cooley	TE	6-3/257	SO-1L	Laurel, Miss./Laurel
+15	Myles Hartsfield	DB	5-11/195	SO-1L	Sayreville, N.J./East Coast Prep
+16	Graham Lindman	QB	6-4/220	JR-JC	Noblesville, Ind./Homeschool/Lindenwood/Santa Barbara City College
+16	Jacob Mathis	TE	6-4/233	FR-RS	Tampa, Fla./Berkeley Prep
+17	Willie Hibbler	LB	6-3/231	SO-1L	Sardis, Miss./North Panola
+19	Markel Winters	DE	6-3/260	JR-JC	Tallahassee, Fla./Rickards/East Carolina/Jones County JC
+20	Shea Patterson	QB	6-2/203	SO-1L	Shreveport, La./IMG Academy
+20	Jarrion Street	DB	6-1/202	SO-1L	Trussville, Ala./Hewitt-Trussville
+21	Javien Hamilton	DB	5-10/172	JR-JC	Bay Springs, Miss./Bay Springs/Jones County JC
+21	Keshun Wells	RB	5-7/170	SO-JC	Moss Point, Miss./Moss Point/Mississippi Gulf Coast CC
+22	Ray Ray Smith	LB	6-2/223	SR-3L	Florence, Ala./Florence
+22	Jordan Wilkins	RB	6-1/210	SR-2L	Cordova, Tenn./St. Benedict at Auburndale
+23	Eugene Brazley	RB	5-9/197	SR-3L	New Orleans, La./G.W. Carver
+23	Breon Dixon	DB	5-11/200	FR-HS	Loganville, Ga./Grayson
+24	Tayler Polk	LB	5-11/212	SR-3L	Magee, Miss./Brandon
+24	Eric Swinney	RB	5-9/220	SO-1L	Riverdale, Ga./Sandy Creek
+25	D.K. Buford	RB	5-11/235	JR-2L	Oxford, Miss./Lafayette
+25	Montrell Custis	DB	6-0/196	SO-1L	Jonesboro, Ga./Lovejoy
+26	C.J. Moore	DB	5-11/195	JR-2L	Bassfield, Miss./Bassfield
+27	Cale Luke	WR	6-1/199	SR-2L	Clinton, Miss./Clinton
+28	Cam Ordway	DB	5-11/187	JR-2L	Pulaski, Tenn./Giles County
+28	D'Vaughn Pennamon	RB	5-11/235	SO-1L	Houston, Texas/Manvel
+29	Armani Linton	DB	6-2/215	SO-1L	Walnut, Miss./Walnut
+30	A.J. Moore	DB	5-11/200	SR-3L	Bassfield, Miss./Bassfield
+31	Jaylon Jones	DB	5-11/181	SO-1L	Dallas, Texas/Allen
+32	Jerry Johnson	DB	6-0/190	SO-JC	Starkville, Miss./Starkville/Mississippi Delta CC
+33	John-Patrick Sherling	LB	5-11/217	SR-2L	Fairhope, Ala./Fairhope
+34	Shawn Curtis	DE	6-2/259	SO-1L	Doral, Fla./Ronald W. Reagan
+35	Donta Evans	LB	6-1/228	FR-RS	Lawrenceville, Ga./Archer
+36	Zedrick Woods	DB	5-11/195	JR-2L	Lake City, Fla./Columbia
+37	Art Mitchell	DB	5-11/180	SO-HS	Yazoo City, Miss./Yazoo City
+38	Marquis Haynes	DE	6-3/225	SR-3L	Jacksonville, Fla./Fork Union Military Academy
+39	Kweisi Fountain	DB	6-1/208	SR-Sq.	Biloxi, Miss./Biloxi
+40	Josiah Coatney	DL	6-4/305	SO-RS	Douglasville, Ga./Chapel Hill/Holmes CC
+41	Brenden Williams	LB	6-3/232	SO-JC	Fairfield, Ala./Restoration Academy/Northeast Mississippi CC
+42	Garrald McDowell	DL	6-2/270	JR-2L	Covington, La./Covington
+43	Detric Bing-Dukes	LB	6-1/242	JR-1L	Tucker, Ga./Tucker/Georgia/Iowa Western CC
+43	Ty Quick	TE	6-3/266	SR-3L	Terry, Miss./Copiah Academy
+44	Alex Ashlock	LB	6-1/229	SR-Sq.	Cordova, Tenn./St. Benedict at Auburndale/Chattanooga
+48	Jack Raborn	LB	6-1/225	JR-Sq.	Advance, N.C./Mt. Tabor
+50	Sean Rawlings	OL	6-5/294	JR-2L	Madison, Miss./Madison Ridgeland Academy
+52	Michael Howard	OL	6-5/257	SO-1L	Green Cove Springs, Fla./Clay
+52	Austrian Robinson	DT	6-4/280	SO-1L	New York, N.Y./Trinity-Pawling School
+54	Jack DeFoor	OL	6-5/297	FR-RS	Calhoun, Ga./Calhoun
+54	Sam Johnson	OL	6-1/268	SO-Sq.	Nashville, Tenn./Christ Presbyterian Academy
+57	Chadwick Lamar	LS	6-1/211	JR-2L	Oxford, Miss./Oxford
+58	Mike Taylor	LS	6-1/189	SO-Sq.	Jackson, Tenn./University School of Jackson
+61	Eli Johnson	C	6-1/296	FR-RS	Taylor, Miss./Lafayette
+62	Kamden Darney	LS	6-1/227	SO-Sq.	Upland, Calif./Loyola
+67	Alex Givens	OL	6-6/304	SO-1L	Nashville, Tenn./Nashville Christian School
+68	Chandler Tuitt	OL	6-4/309	FR-RS	Fayetteville, Ga./Sandy Creek
+70	Jordan Sims	OL	6-4/328	JR-2L	Homewood, Ala./Homewood
+71	Bryce Mathews	OL	6-6/284	FR-RS	Brentwood, Tenn./Brentwood Academy
+72	Royce Newman	OL	6-5/297	FR-RS	Nashville, Ill./Nashville Community
+73	Rod Taylor	OL	6-3/321	SR-3L	Jackson, Miss./Callaway
+74	Greg Little	OL	6-6/332	SO-1L	Allen, Texas/Allen
+76	Daronte Bouldin	OL	6-5/314	SR-3L	Canton, Miss./Canton
+79	Javon Patterson	OL	6-3/318	JR-2L	Petal, Miss./Petal
+80	Elliot Markuson	LB	6-0/228	SR-3L	Oxford, Miss./Lafayette
+80	Josh Ricketts	WR	6-2/200	FR-HS	Madison, Miss./Madison Central
+81	Trey Bledsoe	WR	6-1/216	SR-3L	Grenada, Miss./Grenada
+82	Jared Farlow	WR	6-0/180	FR-HS	Grantville, Ga./Central Christian
+83	Gabe Angel	TE	6-3/238	FR-RS	Lebanon, Tenn./Cookeville
+84	Nick Haynes	TE	6-1/180	FR-TR	Washington, Pa./McGuffey/West Liberty University
+85	Dawson Knox	TE	6-4/243	SO-1L	Nashville, Tenn./Brentwood Academy
+85	Alex Weber	WR	6-1/180	JR-2L	Lake City, Fla./Columbia
+86	Walker Rynd	WR	6-2/170	FR-RS	Fort Worth, Texas/All Saints' Episcopal
+87	D.J. Forté	DL	6-2/284	FR-RS	Atlanta, Ga./Sandy Creek
+88	Ty Reyes	DE	6-1/263	FR-RS	Marietta, Ga./Sprayberry
+88	Garrett Styles	WR	6-1/180	FR-HS	Easley, S.C./Wren
+89	Ryder Anderson	DE	6-6/244	FR-HS	Katy, Texas/Katy
+90	Ross Donelly	DT	6-1/312	JR-2L	Houston, Texas/Cy-Fair
+90	Jack Propst	LS	5-10/195	FR-RS	Brentwood, Tenn./Brentwood Academy
+92	Luke Logan	K	5-11/194	FR-RS	Hattiesburg, Miss./Presbyterian Christian
+94	Will Gleeson	P	6-3/192	SR-3L	Melbourne, Australia/Viewbank College
+95	Benito Jones	DT	6-2/311	SO-1L	Waynesboro, Miss./Wayne County
+95	Isaac Way	K	5-9/180	FR-RS	Franklin, Tenn./Brentwood Academy
+96	Mac Brown	P	6-3/198	FR-RS	Eden Prairie, Minn./Saint Thomas Academy
+96	Jordan Hebert	DT	5-11/291	JR-2L	Klein, Texas/Klein
+97	Qaadir Sheppard	DE	6-3/261	SO-RS	Bronx, N.Y./Iona Prep/Syracuse
+97	Gary Wunderlich	K/P	6-0/193	SR-3L	Memphis, Tenn./Memphis University School
+98	Charles Wiley	DE	6-2/260	FR-RS	Stockbridge, Ga./Stockbridge
+99	Herbert Moore	DT	6-1/327	SR-2L	Memphis, Tenn./Memphis East

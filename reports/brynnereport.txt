@@ -1,0 +1,22 @@
+Brynne DuBois
+Professor Emrich
+CSE 20312
+March 21, 2017
+Lab 6 - Project
+report.txt
+
+1. The small portion of the project that I coded for this lab was the basic set up for reading our roster data from a text file and outputting it for the user in a legible and clean way. Originally, wer were going to have code that would convert the roster data to a text file for us, but after looking into that we determined that it was too difficult to do as part of this project (I will go into more detail in my time log). The completed code I have accepts a file as input using stream an heavily relies on the getline() function to read the data that has been put into a textfile. For this part of the project I have completeled the text files for the rosters of two SEC teams. The final project will have text files for all teams but since they need to be created manually that will take some time. After using getline the program outputs the data that has been read in a format that is easy for the user to read. The output looks something like this:
+NUMBER: 12 NAME: Tom Brady POSITION: QB HEIGHT: 6-5 WEIGHT: 213 YEAR: Sr (Redshirt) HOMETOWN/HIGH SCHOOL: San Mateo CA/ Serra High School
+Once the project is complete, this data will be used for the purpose of comparison against other teams.
+
+2. The following is my time log so far for this project:
+    ~1.5 hours: Over break I did some research into how it would be possible to have the program generate the text files that I created manually for us. After looking into this thoroughly, I determined that it would not be possible to have conversion be part of our project as that would be a separate project in itself. After discussing this finding with Cat, we determined that it would be best to make the text files ourselves and focus on the comparison and graphing. 
+
+    ~1 hour: I spent about this amount of time typing up the roster data for the two teams we used for this portion of the project. I know it's definitely not the most efficient method, but it gives us what we need for the rest of our project.
+
+    ~2.5 hours: This is about the amount of time I spent coding the portion of the code for this lab. I kept running into really small issues with compiling and random errors, so that is why is took an extended amount of time. At one point I also tried a different approach without using getline before determining that it was not the most effiecient way to code what we needed.
+
+Total: 5 hours
+
+3. I have added a milestones.txt file with this lab, but the portion I focused on within the miletones was the creating of the text files (technically they are csv's) and created a program that can read these files and output the data for later comparison. 
+Additionally, we have a github that both of us have access to. The link for this is: https://github.com/cmurad01/ds-project

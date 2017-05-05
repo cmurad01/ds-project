@@ -1,0 +1,91 @@
+27	Quincy Lenton	DB	5-11	202	Fr.	Meridian, Miss. / Meridian
+28	Kylan Johnson	LB	6-1	231	R-Fr.	Dallas, Texas / Skyline
+29	Jeawon Taylor	DB	6-0	187	Fr.	Montgomery, Ala. / Park Crossing
+30	DeAndre Goolsby	TE	6-4	244	Jr.	Derby, Kan. / Derby
+30	Garrett Stephens	DB	5-9	188	R-Jr.	Louisville, Ky. / Saint Xavier
+31	Anthony Gigla	WR	5-11	177	So.	Clermont / South Lake
+33	Tyriek Hopkins	RB	5-8	177	R-Fr.	St. Petersburg / Lakewood
+33	David Reese	LB	6-0	244	Fr.	Farmington, Mich. / Farmington
+35	Joseph Putu	DB	6-2	195	Jr.	Providence, R.I. / Mount Pleasant
+36	Eddie Giles	DB	5-9	167	R-So.	Jupiter / Dwyer
+38	Nick Oelrich	DB	6-2	187	Fr.	Newberry / Newberry
+39	Ryan Ferguson	TE	6-3	229	R-So.	Largo / Indian Rocks
+41	Ryan Farr	LS	6-0	223	So.	Henderson, Nev. / Coronado
+41	James Houston IV	LB	6-1	233	Fr.	Fort Lauderdale / American Heritage
+42	Jordan Smith	DL	6-5	240	Fr.	Lithonia, Ga. / Lithonia
+42	Nick Sproles	QB	6-2	203	Fr.	Winter Park / Winter Park
+43	Cristian Garcia	LB	6-1	231	R-Jr.	Miami / Belen Jesuit Prep
+43	Glenn Jarriel	WR	5-8	173	R-Fr.	Okeechobee, Fla. / Glades Day
+44	Rayshad Jackson	LB	6-0	226	R-Fr.	Miami / Miami Norland
+44	Tucker Nordman	WR	6-1	192	R-Fr.	Deland / Deland
+45	Charles Nordman	WR	6-1	180	R-Fr.	Deland / Deland
+45	R.J. Raymond	LB	6-2	248	R-So.	Atlantic Beach / Fletcher
+46	Harry Gornto V	TE	6-2	203	R-Fr.	Fort Walton Beach / Choctawhatchee
+46	Will Thomas	LB	5-9	233	Fr.	Dunnellon / Dunnellon
+48	Brett DioGuardi	LS	6-3	242	Fr.	Windermere / Windermere Prep
+48	Edwitch Merisier	DB	5-9	171	Fr.	Lehigh Acres / Fort Myers
+49	Jacob Tilghman	LS	6-1	208	R-Fr.	Daytona Beach / Mainland
+50	Jeremiah Moon	LB	6-4	218	Fr.	Hoover, Ala. / Hoover
+51	Antonio Riles	OL	6-4	313	R-Jr.	Lawrenceville, Ga. / Archer
+53	Kavaris Harkless	OL	6-5	310	R-So.	Jacksonville / Trinity Christian Academy
+54	Khairi Clark	DL	6-2	319	R-So.	Hollywood / Chaminade-Madonna
+55	Kyree Campbell	DT	6-3	323	Fr.	Woodbridge, Va. / Woodbridge
+58	Jahim Lawrence	LB	5-11	223	R-Fr.	Hollywood / Miami Norland
+59	T.J. McCoy	OL	6-1	308	R-Fr.	Clermont / South Lake
+59	Danny Weldon	LB	6-1	223	Fr.	Tampa / Tampa Catholic
+61	Brett Heggie	OL	6-3	317	Fr.	Mount Dora, Fla. / Mount Dora
+64	Tyler Jordan	OL	6-4	309	So.	Jacksonville / Bishop Kenny
+65	Jawaan Taylor	OL	6-5	340	Fr.	Cocoa, Fla. / Cocoa
+66	Nick Buchanan	OL	6-2	301	R-Fr.	Dunwoody, Ga. / Dunwoody
+68	Richerd Desir-Jones	DL	6-4	292	R-Fr.	Fort Lauderdale / St. Thomas Aquinas
+69	Marcus Givens	OL	6-0	275	R-Fr.	St. Augustine / Nease
+71	Nick Villano	OL	6-2	301	R-Fr.	Wellington / American Heritage
+72	Stone Forsythe	OL	6-7	329	Fr.	Winter Garden, Fla. / West Orange
+73	Martez Ivey	OL	6-5	305	So.	Apopka / Apopka
+74	Fred Johnson	OL	6-6	311	So.	West Palm Beach / Royal Palm Beach
+75	Tanner Rowell	OL	6-2	275	Fr.	Melbourne / Melbourne
+76	Kadeem Telfort	OL	6-6	318	Fr.	Miami / Booker T. Washington
+77	Andrew Mike	OL	6-6	301	R-So.	Tucson, Ariz. / Sabino
+79	Dallas Bruch	OL	6-3	275	Fr.	Clearwater / Clearwater Central Catholic
+79	Daniel Justino	K	5-8	160	Fr.	Green Cove Springs / Middleburg
+80	C'yontai Lewis	TE	6-4	231	R-So.	Eutaw, Ala. / Kingwood Christian
+81	Antonio Callaway	WR	5-11	197	So.	Miami / Booker T. Washington
+82	Moral Stephens	TE	6-3	249	R-So.	Perry / Taylor County
+83	Rick Wells	WR	6-0	206	Fr.	Jacksonville, Fla. / Raines
+84	Camrin Knight	LB	6-3	246	So.	Tallahassee / Lincoln
+86	Jacob Finn	P	6-2	198	Fr.	Jacksonville / Paxon School
+87	Kalif Jackson	WR	6-4	217	R-Fr.	Neptune Beach / Fletcher
+88	Kemore Gamble	TE	6-3	241	Fr.	Miami / Miami Southridge
+88	Tommy Townsend	P	6-1	195	R-Fr.	Orlando / Boone
+89	Tyrie Cleveland	WR	6-2	196	Fr.	Houston, Texas / Westfield
+90	Antonneous Clayton	DL	6-3	220	Fr.	Vienna, Ga. / Dooly County
+92	Jabari Zuniga	DL	6-3	245	R-Fr.	Marietta, Ga. / Sprayberry
+93	Taven Bryan	DL	6-5	293	R-So.	Casper, Wyo. / Natrona County
+95	Keivonnis Davis	DL	6-4	241	So.	Miami / Miami Central
+96	Cece Jefferson	DL	6-1	261	So.	Glen St. Mary / Baker County
+97	Jon Gould	P	6-0	181	R-Fr.	Elkridge, Md. / Howard
+97	Justus Reed	DL	6-3	241	R-So.	Clearwater / Clearwater Central Catholic
+98	Luke Ancrum	DL	6-5	262	R-Fr.	Sebring / Sebring
+98	Jorge Powell	K	5-10	177	R-So.	Coral Gables / Belen Jesuit Prep
+99	Jachai Polite	DL	6-2	271	Fr.	Daytona Beach, Fla. / Mainland
+Jake Allen	QB	6-3	200	Fr.	Fort Lauderdale / St. Thomas Aquinas
+Ricardo Benalcazar	OL	6-7	352	Sr.	Miramar / Archbishop McCarthy
+Lacedrick Brunson	LB	6-2	210	Fr.	Miami / Miami Jackson
+Zachary Carter	DE	6-5	250	Fr.	Tampa / Hillsborough
+Elijah Conliffe	DE	6-4	305	Fr.	Hampton, Va. / Hampton
+Malik Davis	RB	5-11	190	Fr.	Tampa / Jesuit
+Shawn Davis	DB	5-11	190	Fr.	Miami / Southridge
+Brian Edwards	DB	6-3	195	Fr.	Hollywood / Miramar
+Daquon Green	WR	6-1	185	Fr.	Tampa / Tampa Bay Tech
+CJ Henderson	CB	6-1	175	Fr.	Miami / Columbus
+Adarius Lemons	RB	6-1	195	Fr.	Clearwater / Clearwater
+Jacob Mesenger	WR	5-9	171	R-So.	Sunrise / Piper
+Ventrell Miller	LB	6-0	227	Fr.	Lakeland / Kathleen
+TJ Moore	OL	6-6	290	Fr.	Charlotte, N.C. / Mallard Creek
+James Robinson	WR	6-4	205	Fr.	Lakeland / Lakeland
+Tedarrell Slaton	OL	6-4	360	Fr.	Fort Lauderdale / American Heritage
+Nick Smith	LB	6-3	210	Fr.	Orlando / Dr. Phillips
+Brad Stewart	DB	6-0	190	Fr.	New Orleans, La. / McDonogh
+Donovan Stiner	S	6-2	185	Fr.	Bellaire, Texas / Bellaire
+Cameron Town	DB	5-11	183	R-Jr.	Clearwater / Dunedin
+Marco Wilson	CB	6-0	180	Fr.	Fort Lauderdale / American Heritage

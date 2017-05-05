@@ -1,0 +1,94 @@
+1	Jonathan Kongbo	DL	6-6	270	RS JR	Surrey, B.C./Holy Cross H.S./Arizona Western
+2	Jarrett Guarantano	QB	6-4	205	RS FR	Lodi, N.J./Bergen Catholic
+2	Shy Tuttle	DL	6-2	311	JR	Midway, N.C./North Davidson
+3	Marquill Osborne	DB	5-11	188	SO	Cornelius, N.C./William Amos Hough
+4	John Kelly	RB	5-9	212	JR	Detroit, Mich./Oak Park
+5	Kyle Phillips	DL	6-4	259	JR	Nashville, Tenn./Hillsboro
+7	Rashaan Gaulden	DB	6-1	185	RS JR	Spring Hill, Tenn./Independence
+7	Will McBride	QB	6-1	195	FR	League City, Texas/Clear Springs
+8	Justin Martin	DB	6-1	183	SR	Antioch, Tenn./Overton/Northeast Oklahoma A&M
+8	Latrell Williams	WR	5-11	175	RS FR	Lake City, Fla./Columbia
+9	Marquez Callaway	WR	6-2	190	SO	Warner Robins, Ga./Warner Robins
+10	Tyler Byrd	WR	6-0	195	SO	Naples, Fla./Naples
+11	Austin Smith	LB/DL	6-3	236	RS SO	Buford, Ga./Buford
+12	Quinten Dormady	QB	6-4	216	JR	Boerne, Texas/Boerne
+12	Emmanuel Moseley	DB	5-11	180	SR	Greensboro, N.C./Dudley
+13	Deandre Johnson	DL	6-4	235	FR	Miami, Fla./Miami Southridge
+13	Sheriron Jones	QB	6-2	208	RS SO	Perris, Calif./Rancho Verde
+14	Zac Jancek	QB	6-4	214	RS SO	Knoxville, Tenn./Knoxville Catholic
+14	Quart'e Sapp	LB	6-2	220	RS SO	Alpharetta, Ga./Milton
+15	Jauan Jennings	WR	6-3	205	JR	Murfreesboro, Tenn./Blackman
+17	Dillon Bates	LB	6-3	220	RS JR	Ponte Vedra Beach, Fla./Ponte Vedra
+17	Brandon Johnson	WR	6-2	180	SO	Plantation, Fla./American Heritage
+18	Nigel Warrior	DB	6-0	186	SO	Duluth, Ga./Peachtree Ridge
+19	Jeff George	WR	6-6	195	RS SR	Leavenworth, Kan./Leavenworth Senior/Dodge City C.C.
+19	Darrell Taylor	DL	6-4	240	RS SO	Waverly, Va./Hopewell
+20	Cortez McDowell	LB	6-0	235	SR	Locust Grove, Ga./Locust Grove
+21	Shanon Reid	LB	6-0	205	FR	Lehigh Acres, Fla./Dunbar
+22	Micah Abernathy	DB	6-0	195	JR	Atlanta, Ga./Greater Atlanta Christian
+22	Jonathan Mays	WR	6-0	180	SO	Douglasville, Ga./New Manchester
+24	Todd Kelly Jr.	DB	5-11	208	SR	Knoxville, Tenn./Webb School
+25	Aaron Medley	PK	6-2	194	SR	Lewisburg, Tenn./Marshall County
+25	Josh Smith	WR	6-1	213	RS SR	Knoxville, Tenn./Christian Academy of Knoxville
+26	Ben Powlas	WR	6-5	205	RS FR	Dickson, Tenn./Dickson County
+27	Carlin Fils-aime	RB	5-11	175	SO	Naples, Fla./Naples
+28	Baylen Buchanan	DB	5-11	190	SO	Lawrenceville, Ga./Peachtree Ridge
+28	James Christian	RB	5-10	205	SO	Booneville, Miss./Booneville
+29	Evan Berry	DB	5-11	207	SR	Fairburn, Ga./Creekside
+29	Ramsey Hailey	RB	5-8	189	FR	Memphis, Tenn./White Station
+30	Holden Foster	PK	6-0	205	RS SR	Dickson, Tenn./Dickson County/Sewanee
+31	Parker Henry	H	6-1	185	RS JR	Hendersonville, Tenn./Beech Senior
+33	MaLeik Gatewood	DB	5-10	193	RS SO	Memphis, Tenn./Memphis University School
+34	Darrin Kirkland Jr.	LB	6-1	230	JR	Indianapolis, Ind./Lawrence Central
+35	Daniel Bituli	LB	6-3	235	SO	Antioch, Tenn./Nashville Christian
+35	Taeler Dowdy	RB	6-1	185	SO	Murfreesboro, Tenn./Blackman
+36	Grayson Linde	P	6-1	180	RS FR	Brentwood, Tenn./Ravenwood
+38	D.J. Henderson	DB	6-1	180	RS JR	Lyman, S.C./James F. Byrnes/Dodge City C.C. (Kansas)
+38	Brent McPherson	WR	6-1	186	FR	Sykesville, Md./South Carroll
+39	Kendal Vickers	DL	6-3	295	RS SR	Havelock, N.C./Havelock
+41	Elliott Berry	LB	5-11	222	SR	Fairburn, Ga./Creekside
+42	Ernest Gardner	DB	6-0	178	RS JR	Alameda, Calif./Alameda/Laney College/Oklahoma
+42	Chip Omer	RB	6-0	200	RS FR	Nashville, Tenn./Christ Presbyterian Academy
+43	Laszlo Toser	PK	5-8	181	RS SO	Ooltewah, Tenn./Ooltewah
+44	Jakob Johnson	TE	6-3	250	SR	Stuttgart, Germany/Jean Ribault (Fla.)
+46	Riley Lovingood	LS	6-0	209	RS SO	Hendersonville, Tenn./Beech Senior
+46	DaJour Maddox	LB	5-11	210	RS SO	Stone Mountain, Ga./Druid Hills
+47	Landon Knoll	LB	6-3	217	RS SO	Nashville, Tenn./Father Ryan
+48	Ja'Quain Blakely	LB	6-2	230	RS FR	Moultrie, Ga./Colquitt County
+50	Venzell Boulware	OL	6-3	306	RS SO	Union City, Ga./Creekside
+51	Drew Richmond	OL	6-5	301	RS SO	Memphis, Tenn./Memphis University School
+52	Elijah Medford	LS	5-9	203	RS JR	Burlington, N.C./Walter Williams
+53	Colton Jumper	LB	6-2	224	RS JR	Lookout Mountain, Tenn./Baylor School/The Hun School (NJ)
+55	Quay Picou	DL	6-1	277	JR	Sugar Hill, Ga./Buford
+55	Coleman Thomas	OL	6-5	301	SR	Max Meadows, Va./Fort Chiswell
+56	Riley Locklear	OL	6-5	295	FR	Huntington, W. Va./Spring Valley
+57	Nathan Niehaus	OL	6-6	295	RS FR	Cincinnati, Ohio/Colerain
+59	Jake Yelich	LS	6-2	225	RS FR	Crown Point, Ind./Crown Point
+63	Brett Kendrick	OL	6-6	318	RS SR	Knoxville, Tenn./Christian Academy of Knoxville
+64	Logan Punch	LS	6-0	230	RS FR	Knoxville, Tenn./Knoxville Catholic
+64	Tommy Sprague	OL	6-3	295	RS FR	Alpharetta, Ga./Alpharetta HS
+66	Jack Jones	OL	6-4	307	JR	Murfreesboro, Tenn./Oakland
+67	Joe Keeler	OL	6-6	275	RS SO	Arden, N.C./Christ School
+68	Marcus Tatum	OL	6-6	265	SO	Ormond Beach, Fla./Mainland
+69	Brian Garvey	OL	6-4	295	RS FR	Brentwood, Tenn./Brentwood Academy
+70	Ryan Johnson	OL	6-6	275	RS FR	Brentwood, Tenn./Brentwood Academy
+73	Trey Smith	OL	6-6	313	FR	Humboldt, Tenn./University School of Jackson
+75	Jashon Robertson	OL	6-3	305	SR	Nashville, Tenn./Montgomery Bell Academy
+76	Chance Hall	OL	6-4	318	JR	Roanoke, Va./Northside
+77	Devante Brooks	OL	6-5	255	RS FR	Bowie, Md./St. John's College (D.C.) HS
+79	Thomas Edwards	OL	6-4	315	RS SR	Kingsport, Tenn./Dobyns-Bennett
+80	Eli Wolf	TE	6-4	216	RS SO	Minster, Ohio/Minster
+81	Austin Pope	TE	6-4	230	RS FR	Knoxville, Tenn./Christian Academy of Knoxville
+82	Ethan Wolf	TE	6-6	245	SR	Minster, Ohio/Minster
+83	BJ Bishop	WR	5-10	180	RS FR	Nashville, Tenn./Father Ryan
+85	Thomas Orradre	WR	6-2	205	RS JR	San Luis Obispo, Calif./San Luis Obispo
+86	Andrew Craig	TE	6-5	245	RS FR	Knoxville, Tenn./Webb School
+87	Logan Fetzner	WR	5-9	182	RS JR	Cleveland, Tenn./Bradley Central
+88	Brandon Benedict	DL	6-2	260	RS FR	Nashville, Tenn./Father Ryan
+89	Will Jumper	TE	6-2	206	RS SO	Lookout Mountain, Tenn./Baylor School
+93	Trevor Daniel	P	6-1	248	RS SR	Dickson, Tenn./Dickson County
+94	Mykelle McDaniel	DL	6-3	220	RS FR	Loganville, Ga./Grayson
+96	Joey Cave	DL	6-5	285	RS FR	Knoxville, Tenn./Hardin Valley Academy
+97	Paul Bain	DL	6-5	290	RS JR	Powder Springs, Ga./Hillgrove/Tusculum
+98	Alexis Johnson	DL	6-4	295	RS JR	Atlanta, Ga./Mount Zion/Fort Scott C.C. (Kansas)
+99	Reginald Kahlil McKenzie Jr.	DL	6-3	325	JR	Walnut Creek, Calif./Clayton Valley Charter School

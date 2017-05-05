@@ -1,0 +1,96 @@
+1	Brandon Bryant	DB	6-0	213	Jr.	2L	Tunica, MS / Rosa Fort HS
+2	Logan Burnett	ATH	6-2	186	Fr.	RS	Pelham, AL / Bessemer Academy
+2	Jamal Peters	DB	6-2	218	Jr.	2L	Bassfield, MS / Bassfield HS
+3	Traver Jung	LB	6-4	229	Sr.	1L	Greenville, MS / Holmes [MS] CC
+4	Gerri Green	LB	6-4	245	Jr.	2L	Greenville, MS / Greenville Weston HS
+5	Gabe Myles	WR	6-0	192	Sr.	3L	Starkville, MS / Starkville HS
+6	Donald Gray	WR	5-10	204	Sr.	2L	Memphis, TN / Copiah-Lincoln [MS] CC
+7	Tolando Cleveland	DB	6-0	194	Sr.	3L	Powder Springs, GA / Hillgrove HS
+7	Nick Fitzgerald	QB	6-5	230	Jr.	2L	Richmond Hill, GA / Richmond Hill HS
+10	Keytaon Thompson	QB	6-4	222	Fr.	HS	New Orleans, LA / Landry-Walker HS
+12	J.T. Gray	DB	6-0	202	Sr.	3L	Clarksdale, MS / Clarksdale HS
+13	Cameron Dantzler	DB	6-2	174	Fr.	RS	Hammond, LA / St. Thomas Aquinas HS
+16	Korey Charles	DB	5-10	179	Fr.	RS	Miami, FL / North Florida Christian HS
+17	Jamal Couch	WR	6-4	230	So.	1L	Phenix City, Ala. / Central HS
+18	Deddrick Thomas	WR	5-9	185	So.	1L	Memphis, TN / Memphis Central HS
+19	Travis O'Connor	ATH	6-1	190	Fr.	RS	Kenner, LA / John Curtis HS
+19	Tyler Williams	DB	6-2	172	Fr.	HS	Oxford, MS / Lafayette, HS
+20	Reggie Todd	WR	6-4	204	Fr.	RS	Mobile, AL / Blount HS
+21	Nick Gibson	RB	5-11	211	So.	1L	Birmingham, AL / Pinson Valley HS
+22	Malik Dear	WR	5-9	224	Jr.	2L	Jackson, MS / Murrah HS
+23	Keith Mixon	WR	5-8	184	So.	1L	Birmingham, AL / Shades Valley School
+23	Allen Perkins	ATH	6-0	215	So.	SQ	Pelham, AL / Oak Mountain HS
+23	Kody Schexnayder	P	5-10	197	So.	1L	River Ridge, LA / John Curtis HS
+24	Chris Rayford	DB	6-0	199	Jr.	2L	Byhalia, MS / Byhalia HS
+25	Lashard Durr	DB	5-11	195	Sr.	1L	Gulfport, MS / Copiah-Lincoln [MS] CC
+26	Alec Murphy	RB	6-0	230	So.	SQ	Nixa, MO / Nixa HS
+26	Hayes Walker	ATH	5-11	196	Jr.	SQ	Jackson, MS / Jackson Academy
+27	Aeris Williams	RB	6-1	217	Jr.	2L	West Point, MS / West Point HS
+28	Jaquarius Landrews	DB	6-0	198	Jr.	JC	Summit, MS / Copiah-Lincoln CC
+28	Tristan Pisacane	ATH	5-9	180	Fr.	RS	Franklin, TN / Centennial HS
+29	C.J. Morgan	DB	6-0	202	Fr.	RS	Bossier City, LA / Parkway HS
+30	Chris Stamps	DB	6-0	182	So.	SQ	Vicksburg, MS / Warren Central HS
+31	Maurice Smitherman	DB	5-10	190	So.	1L	Adamsville, AL / Minor HS
+32	Brian Cole	DB	6-2	203	Jr.	JC	Saginaw, MI / East Mississippi CC
+33	Dontavian Lee	RB	6-1	235	Jr.	2L	Hattiesburg, MS / Forrest County Agricutural HS
+33	John Scifers	ATH	6-1	180	Fr.	RS	Euharlee, GA / Woodland HS
+34	Cory Thomas	DL	6-5	303	Jr.	2L	Bessemer, AL / McAdory HS
+37	Bennie Braswell III	ATH	5-9	176	Sr.	SQ	Olive Branch, MS / Olive Branch HS
+37	Brad Wall	ATH	5-8	175	So.	1L	Ocean Springs, MS / Ocean Springs HS
+38	Jonathan Abram	DB	6-0	214	Jr.	JC	Columbia, MS / Jones County JC
+39	Zak Neary	ATH	6-1	198	Jr.	SQ	Adamsville, TN / Adamsville HS
+40	Erroll Thompson	LB	6-1	250	Fr.	RS	Florence, AL / Florence HS
+41	Mark McLaurin	DB	6-2	215	Jr.	2L	Collins, MS / Collins HS
+42	Marquiss Spencer	DL	6-4	271	So.	1L	Greenwood, MS / Greenwood HS
+43	Fletcher Adams	DL	6-2	270	So.	1L	Brandon, MS / Brandon HS
+43	Logan Cooke	P/K	6-5	228	Sr.	3L	Darbun, MS / Columbia Academy
+44	Leo Lewis	LB	6-2	235	So.	1L	Brookhaven, MS / Brookhaven HS
+45	Josiah Phillips	LB	6-4	242	Jr.	SQ	Starkville, MS / Homeschooled
+46	Dezmond Harris	LB	6-4	243	Sr.	3L	Bessemer, AL / McAdory HS
+47	Jace Christmann	K/P	6-1	189	Fr.	RS	Houston, TX / Memorial HS
+48	Chris Redmon	ATH	6-0	220	Fr.	RS	Fayetteville, AR / Fayetteville HS
+49	Stephen Adegoke	ATH	6-0	211	Jr.	RS	Snellville, GA / San Diego Mesa College
+50	Tim Washington	LB	6-3	231	So.	1L	Yazoo City, MS / Yazoo City HS
+51	Stewart Reese	OL	6-5	333	Fr.	RS	Fort Pierce, FL / Fort Pierce Central HS
+52	Kobe Jones	DL	6-4	270	Fr.	RS	Starkville, MS / Starkville HS
+53	Hunter Bradley	SN	6-3	230	Sr.	2L	Collierville, TN / Collierville
+54	Greg Eiland	OL	6-8	319	Fr.	RS	Philadelphia, MS / Philadelphia HS
+54	Cameron Miller	ATH	6-1	208	Fr.	RS	Odessa, FL / Sickles HS
+55	Martinas Rankin	OL	6-5	305	Sr.	1L	Mendenhall, MS / Mississippi Gulf Coast CC
+56	Dareuan Parker	OL	6-4	320	Fr.	RS	Olive Branch, MS / DeSoto Central HS
+58	Tommy Champion	OL	6-5	330	Jr.	JC	Jackson, MS / Copiah-Lincoln CC
+59	Nathan Swanson	ATH	6-5	220	Fr.	RS	Norcross, GA / Norcross HS
+61	Deion Calhoun	OL	6-3	315	Jr.	2L	Pleasant Grove, AL / Restoration Academy
+65	Brett Armour	ATH	6-1	279	So.	SQ	Brighton, TN / Brighton HS
+66	Joel Baldwin	SN	6-3	219	Jr.	SQ	Tupelo, MS / Tupelo HS
+67	Michael Story	OL	6-4	305	So.	1L	Ripley, MS / Ripley HS
+68	Tyre Phillips	OL	6-5	355	Jr.	JC	Grenada, MS / East Mississippi CC
+71	Ben Wilson	ATH	6-4	313	Fr.	RS	Columbia, SC / Heathwood Hall HS
+72	Ronald Cochran	OL	6-4	310	Jr.	SQ	Olive Branch, MS / Olive Branch HS
+73	Darryl Williams	OL	6-2	305	So.	SQ	Bessemer, AL / Bessemer City HS
+74	Elgton Jenkins	OL	6-4	308	Jr.	2L	Clarksdale, MS / Clarksdale HS
+75	Harrison Moon	OL	6-5	290	So.	1L	Chattanooga, TN / Signal Mountain HS
+76	Blake Mitchell	ATH	6-0	300	Fr.	RS	Brentwood, TN / Ensworth HS
+77	Jawon Johnson	ATH	6-2	305	Jr.	RS	Crawford, MS / East Mississippi CC
+79	Evans Wilkerson	OL	6-5	309	So.	SQ	Ridgeland, MS / Jackson Academy
+80	Christian Roberson	TE	6-5	241	Fr.	RS	Atlanta, GA / McEachern HS
+81	Justin Johnson	TE	6-3	243	Jr.	2L	Birmingham, AL / Hoover HS
+82	Farrod Green	TE	6-3	239	So.	1L	Wesson, MS / Wesson Attendance Center
+83	Jordan Thomas	TE	6-5	284	Sr.	1L	Sumrall, MS / East Central CC
+84	Dontea Jones	TE	6-4	232	Fr.	RS	McCool, MS / Jireh (NC) Prep
+85	Austin Williams	WR	6-3	208	Fr.	HS	Ocean Springs, MS / Ocean Springs HS
+86	Jesse Jackson	WR	6-2	213	Jr.	2L	Petal, MS / Petal HS
+87	Osirus Mitchell	WR	6-4	210	Fr.	RS	Sarasota, FL / Booker HS
+87	Wyatt Powell	ATH	5-9	192	So.	SQ	Ridgeland, MS / Jackson Academy
+88	Aaron Hamaker	ATH	6-4	280	Jr.	SQ	Little Rock, AR / Catholic HS
+88	Deion Pope	DL	6-4	304	Jr.	JC	Collins, MS / Copiah-Lincoln CC
+89	Jefferson Teel	ATH	6-5	200	Sr.	SQ	Bartlett, TN / Bartlett HS
+90	Grant Harris	DL	6-3	285	Jr.	SQ	Bolton, MS / Clinton HS
+91	James Jackson	DL	6-3	339	Fr.	HS	Pascagoula, MS / Pascagoula HS
+92	Kendell Jones	DL	6-4	281	So.	SQ	Pinson, AL / Clay-Chalkville HS
+93	Chauncey Rivers	DL	6-3	284	Jr.	JC	Stone Mountain, GA / East Mississippi CC
+94	Montez Sweat	DL	6-6	241	Jr.	JC	Stone Mountain, GA / Copiah-Lincoln CC
+95	Braxton Hoyett	DL	6-3	303	Jr.	1L	Pelham, AL / Pelham HS
+96	Tre Brown	DL	6-4	303	Jr.	RS	Ackerman, MS / Copiah-Lincoln [MS] CC
+97	Lee Autry	DL	6-2	315	Jr.	JC	Albemarle, NC / Itawamba CC
+98	Jeffery Simmons	DL	6-4	307	So.	1L	Macon, MS / Noxubee County HS

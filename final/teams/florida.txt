@@ -1,0 +1,25 @@
+4, Brandon Powell, WR, 5-11, 184, Junior, Deerfield Beach FL, Deerfield Beach High School
+7, Duke Dawson, DB, 5-10, 208, Junior, Cross City FL, Dixie County High School
+8, Nick Washington, DB, 6-0, 197, Junior (Redshirt), Jacksonville FL, Trinity Christian Academy
+9, Dre Massey, WR, 5-9, 180, Junior, Greenville SC, Mauldin
+10, Josh Hammond, WR, 6-1, 186, Freshman, Hallandale FL, Hallandale
+11, Vosean Joseph, LB, 6-1, 226, Freshman, Miami FL, Norland
+11, Kyle Trask, QB, 6-4, 238, Freshman, Manvel TX, Manvel
+12, CJ McWilliams, DB, 5-11, 171, Freshman, Miami FL, Southwest
+13, Feleipe Franks, QB, 6-6, 291, Fr, Crawfordville FL, Wakulla
+14, Luke Del Rio, QB, 6-1, 211, So (Redshirt), Santa Rosa Beach FL, Valor Christian
+14, Chris Williamson, DB, 5-11, 191, So, Gainesville GA, Gainesville
+15, Eddie Pineiro, K, 6-0, 173, So (Redshirt), Miami FL, Sunset
+16, Brian Fallace, TE, 6-4, 209, So (Redshirt), Satellite Beach FL, Palm Bay
+16, Freddie Swain, WR, 6-0, 186, Fr, Ocala FL, North Marion
+17, Jordan Sherit, DL, 6-4, 254, Jr (Redshirt), Tampa, Hillsborough
+17, Kadarius Toney, ATH, 5-11, 180, Fr, Eight Mile AL, Blount
+19, Johnny Townsend, P, 6-1, 211, Jr (Redshirt), Orlando FL, Boone
+21, McArthur Burnett, DB, 5-9, 174, Fr, Pahokee FL, Pahokee
+22, Lamical Perine, RB, 5-11, 221, Fr, Theodore AL, Theodore
+23, Chauncey Gardner, DB, 5-11, 221, Fr, Cocoa FL, Cocoa
+24, Mark Thompson, RB, 6-2, 237, Jr (Redshirt), La Mott PA, Cheltenham
+25, Jordan Scarlett, RB, 5-10, 213, So, Fort Lauderdale FL, St Thomas Aquinas
+25, Brady Walters, DB, 5-11, 176, Jr, Clermont FL, South Lake
+26, Marcel Harris, DB, 6-1, 211, Jr (Redshirt), Orlano FL, Dr Phillips
+

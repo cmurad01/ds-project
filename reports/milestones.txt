@@ -1,0 +1,45 @@
+Brynne DuBois
+Professor Emrich
+CSE 20312
+March 7, 2017
+Project
+milestones.txt
+
+Part 1: SET UP (5 points total)
+    - Create a GitHub repository for project (+2)
+    - Get every member of the group on the repository (+3)
+
+Part 2: GATHER DATA (20 points total)
+    - Get player roster information from teams within the SEC (+10)
+        EAST:
+            University of Florida
+            University of Georgia
+            Universiry of Kentucky
+            University of Missouri
+            University of South Carolina
+            Vanderbilt University
+        WEST:
+            University of Alabama
+            University of Arakansas
+            Auburn University
+            Louisiana State University
+            University of Mississippi
+            Mississippi State University
+            Texas A&M University
+        
+        NOTE: We are dividing the SEC into East vs. West for the purpose
+              of comparison within the conference
+    - Convert roster statistics into CSV files (+5)
+    - Make "player profiles" with extracted statistics (+5)
+      - Height, weight, hometown, east/west, high school
+
+Part 3: CLASS IMPLEMENTATION (15 points total)
+    -Create "Player" class (+5)
+         - This class will be able to inherit traits such as...
+            Height
+            Weight
+            Hometown
+            East/West 
+            High School
+            Team
+    - Compare traits and generate graphs (+10)       

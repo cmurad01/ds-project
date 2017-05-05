@@ -1,0 +1,89 @@
+1	Deebo Samuel	WR	6-0	208	RS JR	Inman, S.C./Chapman
+3	K.C. Crosby	TE	6-1	230	RS JR	Bamberg, S.C./Bamberg-Ehrhardt
+3	Chris Lammons	DB	5-9	188	SR	Lauderhill, Fla./Plantation
+4	Bryson Allen-Williams	LB	6-2	229	SR	Ellenwood, Ga./Ceder Grove
+5	Keir Thomas	DL	6-1	260	SO	Miami, Fla./Miami Central
+5	Terry Googer	WR	6-4	220	RS JR	Atlanta, Ga./Woodward Academy
+6	T.J. Brunson	LB	6-1	228	SO	Columbia, S.C./Richland Northeast
+7	Korey Banks	WR	5-11	185	SO	Tyrone, Ga./Sandy Creek
+7	JaMarcus King	DB	6-1	186	SR	Mobile, Ala./Blount
+8	Randrecous Davis	WR	5-11	199	RS FR	Atlanta, Ga./Mays
+9	Jerad Washington	WR	5-8	163	RS SO	Jacksonville, Fla./First Coast
+10	Skai Moore	LB	6-2	221	RS SR	Cooper City, Fla./University
+12	Kaleb Chalmers	DB	5-11	179	RS SO	Greenwood, S.C./Greenwood/Northwest Mississippi CC
+12	Michael Scarnecchia	QB	6-4	199	RS JR	Fleming Island, Fla./Fleming Island
+16	Rashad Fenton	DB	5-11	183	JR	Miami, Fla./Miami Carol City
+16	Bailey Hart	QB	6-3	176	RS FR	Mt. Pleasant, S.C./Wando
+17	Javon Charleston	DB	6-0	183	RS SO	Gurnee, Ill./Warren
+17	Danny Gordon	QB	6-0	207	RS JR	Worthington, Ohio/Worthington/Miami (Ohio)
+18	OrTre Smith	WR	6-4	229	FR	Mount Pleasant, S.C./Wando
+19	Jake Bentley	QB	6-4	223	SO	Opelika, Ala./Opelika
+20	Joseph Charlton	K/P	6-5	184	RS SO	Columbia, S.C./A.C. Flora
+22	Steven Montac	DB	5-10	186	JR	Covington, Ga./Newton/Coffeyville C.C.
+23	Rico Dowdle	RB	6-0	216	SO	Asheville, N.C./A.C. Reynolds
+24	D.J. Smith	DB	5-11	194	SR	Marietta, Ga./Walton
+24	Garrett Frederick	WR	5-10	178	RS FR	Plano, Texas/Plano
+25	A.J. Turner	RB	5-10	189	RS SO	Clifton, Va./Centreville
+26	Jaylin Dickerson	DB	6-1	180	FR	Southern Pines, N.C./Pinecrest
+27	Ty'Son Williams	RB	6-0	209	RS SO	Sumter, S.C./Crestwood/North Carolina
+29	Antoine Wilder	DB	5-10	185	RS SO	Riverdale, Ga./Hapeville Charter
+31	Chris Smith	DB	5-9	180	RS FR	Rock Hill, S.C./South Pointe
+32	Brett Shore	LB	5-11	210	RS SR	Irmo, S.C./Dutch Fork/Tyler JC
+32	Caleb Kinlaw	RB	5-10	200	RS JR	Goose Creek, S.C./Goose Creek/Pearl River C.C.
+34	Scott Grant	DB	5-10	192	RS JR	Laurens, S.C./Laurens
+34	Mon Denson	RB	5-10	205	RS SO	LaGrange, Ga./LaGrange
+35	Daniel Fennell	DL	6-3	240	RS SO	Loganville, Ga./Grayson
+36	C.J. Freeman	RB	5-11	213	RS FR	Greensboro, N.C./Northern Guilford
+36	Morgan Vest	DB	6-0	190	RS FR	Leander, Texas/Rouse
+39	Demetrius Smalls	DB	5-9	170	RS SR	Bluffton, S.C./Bluffton
+40	Jacob August	TE	6-6	252	RS JR	Columbia, S.C./Cardinal Newman/Fork Union Military
+40	Jason Senn	DB	5-8	177	RS SO	Beaufort, S.C./Beaufort
+42	Alexander Woznick	PK	5-11	165	RS FR	Greenville, S.C./Eastside
+43	Parker White	K/P	6-4	193	RS FR	Mount Pleasant, S.C./Wando
+44	Adrian McGee	RB	5-11	179	RS FR	Greer, S.C./Greer
+45	Spencer Eason-Riddle	LB	6-0	220	RS FR	Raleigh, N.C./Leesville Road
+45	Ben Asbury	LS	6-0	206	RS JR	Atlanta, Ga./Holy Innocents' Episcopal/Berry College
+46	Harrison Freeman	LS	6-3	210	RS FR	Raleigh, N.C./Leesville Road
+47	Jaylan Foster	DB	5-10	187	SO	Duncan, S.C./Byrnes/Gardner-Webb
+48	Dexter Wideman	DL	6-4	288	RS SO	Saluda, S.C./Saluda/Camden Military
+48	Nick McGriff	LS	6-0	214	RS JR	Gainesville, Fla./Gainesville
+50	Griffin Gentry	DL	6-1	260	RS FR	Birmingham, Ala./Homewood
+50	Sadarius Hutcherson	OL	6-4	311	RS FR	Huntingdon, Tenn./Huntingdon
+51	Cory Helms	OL	6-5	308	RS SR	Alpharetta, Ga./Milton/Wake Forest
+52	Jajuan Blankenship	DL	5-11	269	RS FR	Anderson, S.C./T.L. Hanna
+53	Mitch Langford	LB	5-9	208	RS JR	Richburg, S.C./Lewisville/Charleston Southern
+55	Christian Pellage	OL	6-7	300	RS SO	Brooksville, Fla./Nature Coast Tech
+57	Hassan Belton	LB	5-11	208	RS SO	Blythewood, S.C./Blythewood/Western Carolina
+60	Chandler Farrell	OL	6-3	285	RS FR	Summerville, S.C./Summerville
+61	Cameron Johnson	OL	6-6	293	RS FR	Bennettsville, S.C./Marlboro County
+61	Javion Duncan	DL	5-11	270	RS JR	Simpsonville, S.C./Woodmont/Citadel
+63	Blake Camper	OL	6-8	306	JR	Virginia Beach, Va./Frank W. Cox
+65	Pika Leota	OL	6-5	309	RS FR	Asheville, N.C./Asheville
+66	Will Putnam	OL	6-5	291	RS FR	Harrisburg, N.C./Hickory Ridge
+67	Ryan Green	OL	6-3	289	RS SO	James Island, S.C./James Island/Presbyterian
+69	D.J. Park	OL	6-5	332	RS SR	Dillon, S.C./Dillon
+70	Alan Knott	OL	6-4	274	RS SR	Tyrone, Ga./Sandy Creek
+72	Donell Stanley	OL	6-4	317	RS JR	Floydale, S.C./Latta
+73	Summie Carlay	OL	6-5	270	FR	Laurens, S.C./Laurens
+77	Malik Young	OL	6-4	294	RS JR	Pelzer, S.C./Woodmont
+78	Zack Bailey	OL	6-6	311	JR	Summerville, S.C./Summerville
+79	Trey Derouen	OL	6-4	307	RS SO	Lilburn, Ga./Parkview
+80	Shemar Glenn	WR	6-0	171	RS SO	Union, S.C./Union County/USC-Union
+81	Hayden Hurst	TE	6-5	253	JR	Jacksonville, Fla./The Bolles School
+82	Evan Hinson	TE	6-4	225	RS FR	Deltona, Fla./Deltona
+83	Chavis Dawkins	WR	6-2	209	SO	Duncan, S.C./Byrnes
+84	Kyle Markway	TE	6-4	246	RS SO	St. Louis, Mo./St. John Vianney
+85	Devin Dingle	WR	5-9	170	RS SO	Summerville, S.C./Cane Bay
+85	Michael Almond	K/P	6-3	229	RS SO	North Augusta, S.C./Westminster
+87	Kiel Pollard	TE	6-1	235	SO	Moultrie, Ga./Colquitt County
+89	Bryan Edwards	WR	6-3	209	SO	Conway, S.C./Conway
+90	Taylor Stallworth	DL	6-3	308	SR	Mobile, Ala./Murphy
+90	Wyman Baxley	LS	6-2	225	RS FR	Athens, Ga./Athens Academy
+91	Shameik Blackshear	DL	6-5	253	RS SO	Bluffton, S.C./Bluffton
+92	D.J. Wonnum	DL	6-4	248	SO	Stone Mountain, Ga./Stephenson
+93	Ulric Jones	DL	6-6	309	RS SR	Oxford, Ala./Oxford/Butler (Kan.) Community College
+94	M.J. Webb	DL	6-3	285	FR	Rutledge, Ga./Morgan County
+95	Dante Sawyer	DL	6-3	265	SR	Suwanee, Ga./North Gwinnett/East Mississippi C.C.
+96	Aaron Thompson	DL	6-3	288	RS FR	Fort Lauderdale, Fla./Dillard
+97	Kobe Smith	DL	6-2	297	SO	Lawrenceville, Ga./Archer
+98	Stephon Taylor	DL	6-6	271	RS FR	New Orleans, La./McDonogh 35
